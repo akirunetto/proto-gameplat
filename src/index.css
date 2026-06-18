@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-void text-terminal-white font-mono;
+    margin: 0;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+  border-left: 1px solid #333;
+}
+::-webkit-scrollbar-thumb {
+  background: #FF5722;
+  border: 1px solid #000;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E65100;
+}
+
+/* Scanline Effect Overlay */
+.scanlines::before {
+  content: " ";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(255,255,255,0),
+    rgba(255,255,255,0) 50%,
+    rgba(0,0,0,0.2) 50%,
+    rgba(0,0,0,0.2)
+  );
+  background-size: 100% 4px;
+  z-index: 50;
+  pointer-events: none;
+}
+
+/* Base Terminal styling */
+.terminal-border {
+  @apply border border-terminal-white;
+}
+
+.terminal-panel {
+  @apply bg-void border border-terminal-white/30 backdrop-blur-sm relative;
+}
+
+/* Button with orange glow and sharp edges */
+.btn-cyber {
+  @apply border border-terminal-white px-4 py-2 uppercase tracking-widest text-sm transition-all duration-300;
+}
+.btn-cyber:hover {
+  @apply border-core-orange text-core-orange shadow-glow bg-core-orange/10;
+}
+.btn-cyber.active {
+  @apply bg-core-orange text-void border-core-orange shadow-glow-strong;
+}
+
+/* Typewriter/Blinking cursor effect utility */
+.typing-cursor::after {
+  content: '█';
+  @apply animate-blink text-core-orange ml-1;
+}
+
+/* Image filter to fit aesthetic (orange/grayscale tinted) */
+.cyber-image {
+  filter: grayscale(100%) contrast(1.2) brightness(0.8);
+  transition: filter 0.3s ease;
+}
+.cyber-image:hover, .group:hover .cyber-image {
+  filter: grayscale(80%) sepia(100%) hue-rotate(-20deg) saturate(300%) contrast(1.2);
+}
