@@ -72,8 +72,8 @@ export default function Detail() {
                   <td className="py-3 text-terminal-white">{game.dateCreated}</td>
                 </tr>
                 <tr className="border-b border-terminal-white/10">
-                  <th className="py-3 text-terminal-white/60 font-normal">FORMAT</th>
-                  <td className="py-3 text-terminal-white">{game.fileFormat}</td>
+                  <th className="py-3 text-terminal-white/60 font-normal">OS_SUPPORT</th>
+                  <td className="py-3 text-terminal-white">{game.osSupport?.join(', ')}</td>
                 </tr>
                 <tr className="border-b border-terminal-white/10">
                   <th className="py-3 text-terminal-white/60 font-normal">DURATION</th>

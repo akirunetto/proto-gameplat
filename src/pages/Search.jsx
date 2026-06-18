@@ -6,21 +6,30 @@ import TerminalCard from '../components/TerminalCard';
 export default function Search() {
   const [query, setQuery] = useState('');
   const [categoryFilter, setCategoryFilter] = useState('ALL');
-  const [formatFilter, setFormatFilter] = useState('ALL');
+  const [osFilter, setOsFilter] = useState('ALL');
+  const [sortOrder, setSortOrder] = useState('DEFAULT');
 
   const categories = ['ALL', ...new Set(mockGames.map(g => g.category))];
-  const formats = ['ALL', ...new Set(mockGames.map(g => g.fileFormat))];
+  const osOptions = ['ALL', ...new Set(mockGames.flatMap(g => g.osSupport || []))];
 
   const filteredGames = useMemo(() => {
-    return mockGames.filter(game => {
+    let result = mockGames.filter(game => {
       const matchesQuery = game.title.toLowerCase().includes(query.toLowerCase()) || 
                            game.keywords.some(k => k.toLowerCase().includes(query.toLowerCase()));
       const matchesCategory = categoryFilter === 'ALL' || game.category === categoryFilter;
-      const matchesFormat = formatFilter === 'ALL' || game.fileFormat === formatFilter;
+      const matchesOs = osFilter === 'ALL' || game.osSupport?.includes(osFilter);
       
-      return matchesQuery && matchesCategory && matchesFormat;
+      return matchesQuery && matchesCategory && matchesOs;
     });
-  }, [query, categoryFilter, formatFilter]);
+
+    if (sortOrder === 'PRICE_ASC') {
+      result.sort((a, b) => (a.priceValue || 0) - (b.priceValue || 0));
+    } else if (sortOrder === 'PRICE_DESC') {
+      result.sort((a, b) => (b.priceValue || 0) - (a.priceValue || 0));
+    }
+
+    return result;
+  }, [query, categoryFilter, osFilter, sortOrder]);
 
   return (
     <div className="space-y-8 flex flex-col md:flex-row md:space-x-8 md:space-y-0">
@@ -46,13 +55,26 @@ export default function Search() {
             </div>
             
             <div>
-              <label className="block text-xs text-terminal-white/60 mb-2">FORMAT_PARAM</label>
+              <label className="block text-xs text-terminal-white/60 mb-2">OS_PARAM</label>
               <select 
-                value={formatFilter}
-                onChange={(e) => setFormatFilter(e.target.value)}
+                value={osFilter}
+                onChange={(e) => setOsFilter(e.target.value)}
+                className="w-full bg-void border border-terminal-white/50 text-terminal-white p-2 text-sm focus:border-core-orange outline-none focus:shadow-glow transition-all mb-4"
+              >
+                {osOptions.map(o => <option key={o} value={o}>{o}</option>)}
+              </select>
+            </div>
+            
+            <div>
+              <label className="block text-xs text-terminal-white/60 mb-2">SORT_BY</label>
+              <select 
+                value={sortOrder}
+                onChange={(e) => setSortOrder(e.target.value)}
                 className="w-full bg-void border border-terminal-white/50 text-terminal-white p-2 text-sm focus:border-core-orange outline-none focus:shadow-glow transition-all"
               >
-                {formats.map(f => <option key={f} value={f}>{f}</option>)}
+                <option value="DEFAULT">DEFAULT</option>
+                <option value="PRICE_ASC">PRICE (LOW TO HIGH)</option>
+                <option value="PRICE_DESC">PRICE (HIGH TO LOW)</option>
               </select>
             </div>
           </div>

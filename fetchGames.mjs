@@ -58,7 +58,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const fetchAppDetails = (appId) => {
   return new Promise((resolve, reject) => {
-    https.get(`https://store.steampowered.com/api/appdetails?appids=${appId}`, (res) => {
+    https.get(`https://store.steampowered.com/api/appdetails?appids=${appId}&cc=id`, (res) => {
       let data = '';
       res.on('data', chunk => { data += chunk; });
       res.on('end', () => {
@@ -90,18 +90,25 @@ async function run() {
       if (response && response[appId] && response[appId].success) {
         const data = response[appId].data;
         
+        const osSupport = [];
+        if (data.platforms?.windows) osSupport.push('Windows');
+        if (data.platforms?.mac) osSupport.push('MacOS');
+        if (data.platforms?.linux) osSupport.push('Linux');
+        if (osSupport.length === 0) osSupport.push('Windows');
+
         games.push({
           id: `steam_${appId}`,
           title: data.name,
           creator: data.developers?.[0] || data.publishers?.[0] || 'Unknown',
           dateCreated: data.release_date?.date || 'Unknown',
-          fileFormat: getRandom(['.exe', 'ZIP', '.dmg', '.tar.gz']),
+          osSupport: osSupport,
           duration: `Trailer: 0${Math.floor(Math.random() * 3) + 1}:${Math.floor(Math.random() * 50) + 10}`,
           resolution: getRandom(['1080p', '1440p', '4K']),
           keywords: data.genres ? data.genres.map(g => g.description) : ['Game'],
           description: removeHtmlTags(data.short_description),
           category: data.genres?.[0]?.description || 'Game',
           accessRights: data.is_free ? 'Free-to-Play' : (data.price_overview?.final_formatted || 'Premium'),
+          priceValue: data.is_free ? 0 : (data.price_overview?.final || 0),
           thumbnail: data.header_image,
           video: data.movies?.[0]?.webm?.max || data.movies?.[0]?.webm?.['480'] || 'https://www.w3schools.com/html/mov_bbb.mp4'
         });
