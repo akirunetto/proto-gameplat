@@ -14,8 +14,20 @@ export default function Search() {
 
   const filteredGames = useMemo(() => {
     let result = mockGames.filter(game => {
-      const matchesQuery = game.title.toLowerCase().includes(query.toLowerCase()) || 
-                           game.keywords.some(k => k.toLowerCase().includes(query.toLowerCase()));
+      const searchString = [
+        game.title,
+        game.creator,
+        game.dateCreated,
+        game.description,
+        game.category,
+        game.accessRights,
+        game.resolution,
+        game.duration,
+        ...(game.keywords || []),
+        ...(game.osSupport || [])
+      ].join(' ').toLowerCase();
+
+      const matchesQuery = !query || searchString.includes(query.toLowerCase());
       const matchesCategory = categoryFilter === 'ALL' || game.category === categoryFilter;
       const matchesOs = osFilter === 'ALL' || game.osSupport?.includes(osFilter);
       
@@ -26,6 +38,10 @@ export default function Search() {
       result.sort((a, b) => (a.priceValue || 0) - (b.priceValue || 0));
     } else if (sortOrder === 'PRICE_DESC') {
       result.sort((a, b) => (b.priceValue || 0) - (a.priceValue || 0));
+    } else if (sortOrder === 'DATE_ASC') {
+      result.sort((a, b) => new Date(a.dateCreated).getTime() - new Date(b.dateCreated).getTime());
+    } else if (sortOrder === 'DATE_DESC') {
+      result.sort((a, b) => new Date(b.dateCreated).getTime() - new Date(a.dateCreated).getTime());
     }
 
     return result;
@@ -75,6 +91,8 @@ export default function Search() {
                 <option value="DEFAULT">DEFAULT</option>
                 <option value="PRICE_ASC">PRICE (LOW TO HIGH)</option>
                 <option value="PRICE_DESC">PRICE (HIGH TO LOW)</option>
+                <option value="DATE_DESC">DATE (NEWEST FIRST)</option>
+                <option value="DATE_ASC">DATE (OLDEST FIRST)</option>
               </select>
             </div>
           </div>
@@ -90,7 +108,7 @@ export default function Search() {
           </div>
           <input 
             type="text" 
-            placeholder="ENTER QUERY (TITLE OR KEYWORD)..." 
+            placeholder="ENTER QUERY (TITLE, CREATOR, TAGS, DATE)..." 
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             className="w-full bg-void border-2 border-terminal-white/50 text-terminal-white pl-12 pr-10 py-4 font-mono text-lg focus:border-core-orange focus:shadow-glow transition-all outline-none"
