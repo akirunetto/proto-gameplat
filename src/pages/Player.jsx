@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { mockGames } from '../data/mockGames';
 import { Play, Pause, Volume2, VolumeX, X, Heart, Maximize } from 'lucide-react';
+import Hls from 'hls.js';
 
 export default function Player() {
   const { id } = useParams();
@@ -24,6 +25,28 @@ export default function Player() {
       setShowWishlist(false);
     }
   }, [currentTime]);
+
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video || !game?.video) return;
+
+    let hls;
+    if (game.video.includes('.m3u8')) {
+      if (Hls.isSupported()) {
+        hls = new Hls();
+        hls.loadSource(game.video);
+        hls.attachMedia(video);
+      } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = game.video;
+      }
+    } else {
+      video.src = game.video;
+    }
+
+    return () => {
+      if (hls) hls.destroy();
+    };
+  }, [game]);
 
   const togglePlay = () => {
     if (videoRef.current) {
@@ -94,7 +117,6 @@ export default function Player() {
         
         <video
           ref={videoRef}
-          src={game.video}
           className="w-full h-full object-contain cyber-image"
           onTimeUpdate={handleTimeUpdate}
           onEnded={() => setIsPlaying(false)}

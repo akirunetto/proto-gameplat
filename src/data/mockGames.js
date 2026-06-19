@@ -8,8 +8,8 @@ export const mockGames = [
       "Windows",
       "Linux"
     ],
-    "duration": "Trailer: 01:21",
-    "resolution": "4K",
+    "duration": "Trailer: 03:36",
+    "resolution": "1440p",
     "keywords": [
       "Action",
       "Free To Play"
@@ -19,7 +19,28 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/hls_264_master.m3u8?t=1696005467",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_808cdd373d78c3cf3a78e7026ebb1a15895e0670.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2254a50f27951fb9028bc00b93a7f2ed7aac1e13.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_54b9c26b028c84d5f8a5316f31ae6203953ed84d.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_1b3b5fd437939a7ed00a2155269e78994cb998d3.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_352666c1949ce3966bd966d6ea5a1afd532257bc.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_63d2733b9b4ace01a41d5ba8afd653245d05d54a.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fe70d46859593aef623a0614f4686e2814405035.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_bb2af3e83ac0385ff2055f2ab9697cdd83e351b7.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fb8e5e2ae29ce64e2898315c66b5db08989e8f91.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0db84c628a798e38ca57d69abda119bee1358008.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_18e9ea2715f0407ee05e206073927a648db60d73.1920x1080.jpg?t=1780435263",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2514675f364079b754b820cbc8b2e7c331d56a26.1920x1080.jpg?t=1780435263"
+    ]
   },
   {
     "id": "steam_570",
@@ -31,8 +52,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:41",
-    "resolution": "1440p",
+    "duration": "Trailer: 01:19",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Strategy",
@@ -43,7 +64,19 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/570/116737/313addee2092d0bd6f538d164610061ea8bbe79c/1749859757/hls_264_master.m3u8?t=1762820639",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_ad8eee787704745ccdecdfde3a5cd2733704898d.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_7ab506679d42bfc0c0e40639887176494e0466d9.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_c9118375a2400278590f29a3537769c986ef6e39.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_f9ebafedaf2d5cfb80ef1f74baa18eb08cad6494.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_27b6345f22243bd6b885cc64c5cda74e4bd9c3e8.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_d0f973ce376ca5b6c08e081cb035e86ced105fa9.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_1f3b5f5ccf8b159294914c3fe028128a787304b6.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_e0a92f15a6631a8186df79182d0fe28b5e37d8cb.1920x1080.jpg?t=1769535998",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/ss_86d675fdc73ba10462abb8f5ece7791c5047072c.1920x1080.jpg?t=1769535998"
+    ]
   },
   {
     "id": "steam_271590",
@@ -53,8 +86,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 02:40",
-    "resolution": "1080p",
+    "duration": "Trailer: 01:46",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure"
@@ -64,7 +97,85 @@ export const mockGames = [
     "accessRights": "Premium",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/271590/844302/de4ad49997171bd3f4d05299cc3e718cfe0307ee/1751269402/hls_264_master.m3u8?t=1741119978",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_32aa18ab3175e3002217862dd5917646d298ab6b.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_2744f112fa060320d191a50e8b3a92441a648a56.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_da39c16db175f6973770bae6b91d411251763152.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd5db78286be0a7c6b2c62519099a9e27e6b06f3.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_b1a1cb7959d6a0e6fcb2d06ebf97a66c9055cef3.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bc5fc79d3366c837372327717249a4887aa46d63.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d2eb9d3e50f9e4cb8db37d2976990b3795da8187.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bd944debbec9936769f6dfb39ee456ca605615e3.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_66daaa8e0416b805ffb9a853235e21468d6b85bc.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3820844756ae43340809e247fea327025dca1e39.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_5eafc9316db476e74c1b38b25f15c1326f4d574a.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fbb16a4376f0205178de722aa14b9d243c2a47ea.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bab596ea9a6924055cd8c097bba75f052c18025d.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c5df068273a036bf224c89d3fcd534811790a808.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1487c2c7ddd9a1ae6b55f7e50d5d63ada6915921.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ef2be2226f012c4c1bc6f04ab8ed35ca3ffc8342.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3b7d6905185d1fd12eeaba603a55c0a246985f02.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_a3d4e239735052cd2c81722aa2930b6fcefa9bec.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e8cd9901cec9bc5e7c6b8a9dc3e746fa77988a26.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_549709ca54069eb849986204adb0fe438853e48d.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e3412658add19155ba35d6c80862559bf002845d.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea4a3bab5f7ba3a6fcf8067c2864b9d349fe387c.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_90f67258a3d991fe1b72030e56035ede688a82d7.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4322495419b762d3e0ca2e31e61dff9a86eac3e9.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d7f501f20ed23e2ee0e5e6b3c09922021c2f9aaa.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e65286ab9bba88c6d0d9ad30cf6b5d34578c51ce.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e929649b2b98ad76795d92d8489470bc5dbffddb.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_e080b9646300458e7e6fde55ad68c8fd3650371c.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_62a2f95c1784f138c3abbecf376c5cc99cc94a57.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_a5ca40b51e95d5c592e5eb77b3d78d5149ea5fd6.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1dfbddaafe8e4e8c3a4d8a9e13cdf89e2deb7ab.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7bcc40aa6ba276d1ec246127d2e623b75fa315eb.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ef673abfaf1555f10c071c4e5e0cd9d513be4c3c.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6b3e35dfc1acf5a742998fcd21690b5cddc367df.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_108d9c5f4244a6186662850a56898028913d28a4.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_89040ec8716e6422260580640f485f8c825cae62.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_0cb0627d2d4559ae6ca7be60c43a9dc4aa4e1bb3.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8b7ae7209f3c3422e76d452c290bd282265caa35.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d6b4c13c1f59fe3c3973a4289c64047c3d350201.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fae62fcb24412928d97ec23b6bd9473b26690596.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9383e097bbdba1deaa79e77f8bb6664041036066.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3ce5439cfdd04d1c53487f7057d45360839c0205.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb5725e2200df97b28908bccb9e8268780489506.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea299fb00e9789ce97bc6c690d9f99180bab03ab.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ac0dea35915ab1d7f2eacb386befb36a3b684ee6.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_942afc86f5724f8eafb8075b123cfc848fb736da.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3a20a814df620793186348058d9201f1c60b1bc2.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1f60c9aae855a810bcdabebf43a1e03e9600ac0.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ff987bc8b943034c3bb989710b88dd7d629da783.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_eb0a041f0699ad4c98c6ef2b8222c264e0435864.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_7454420b01944e4a0f382c3a2d6c7d3d990561fb.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_99fe78592b8c15211d9b518d921e6a104430c918.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_80b965d66b13d6eb5e1468151a371e12fe159663.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_1a30befe6a3ed468981a6b2aaed7d2bb79bc1ce0.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_9efa694175609b73e9d3dca54190cbd8f6a0bc60.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_ea78dfa1d7d81c3781287cab165f64ca70f1f2ea.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_d1555f147b4667f70fac769985df629cbfda40b8.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_680684304e38a9c58a55866cde99469ae8ef510c.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_be2b9e45c671f95b8bc9fde58dbbd1154b0b633a.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_54a59b51d9a3dbd5cf6b8d8745716b293633a50b.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_320f7bf17d387eddb1c7153e2bf8de8e14bc4d39.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_c7766bbf4f0800ea989e11b26991a3d90197568c.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_65677665937a9164fb10b3194ff1d89bb1f1d848.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8ca5134d9826629ea01c9cfb6d8a51c2b1661e28.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_4627498ce6ec1516512468eecfb9f90b7fdf438b.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_3da42391c6317205177248dea0a48ced89998a8d.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_04c349fc07c4f6244f4426ea0b49e31c8581a97d.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_fd8843577fb31aba4b4b827b5dad6c5ac3ab890b.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_8afff4bbd275fe7ddd56e3b5dc77f6658acf207e.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_bb2ee3b9b48a60857873192cfff10546e01d4a86.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_cd721eb1856f0dd3b820e4e998c3b5fe7e7c9b4e.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_6efecf505052b51071024f32dc4db364cbb0ab6e.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_43e9c59d968e7f99f1eef065af85b3e542100366.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_f64515607fd627aa9436be3b15fdcb9e1c89bb19.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_95a1f04eb687eae71478c0c5ba644da57e10f215.1920x1080.jpg?t=1765387725",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/ss_873c72ecd65c4a9e17f0b3535bc8579a4616394e.1920x1080.jpg?t=1765387725"
+    ]
   },
   {
     "id": "steam_1086940",
@@ -75,8 +186,8 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 03:59",
-    "resolution": "1080p",
+    "duration": "Trailer: 03:36",
+    "resolution": "1440p",
     "keywords": [
       "Adventure",
       "RPG",
@@ -87,7 +198,28 @@ export const mockGames = [
     "accessRights": "Rp 699 999",
     "priceValue": 69999900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1086940/637951/59ca25b847b0e471638d1e2474acf71b068d57f0/1750615003/hls_264_master.m3u8?t=1702007645",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_c73bc54415178c07fef85f54ee26621728c77504.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_73d93bea842b93914d966622104dcb8c0f42972b.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_cf936d31061b58e98e0c646aee00e6030c410cda.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_6b8faba0f6831a406ce015648958da9612d14dbb.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_8fc5eba770b4a1639b31666908bdd2bbc1aa2ae4.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_31c13d137706fb4d9a4210513274a3ed9c3c7c96.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_0efa1a469a37beeb4fd0cb8e16dc99bd36357dc4.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_387896248b42a15239a9256844b3e4bff72fbc2a.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_44d30da9c3e4622b46f2978e89bda0515856eaf4.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_f8c7fcdeccbfe77e3fad33330a464fed30f781f0.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_332cd26db210d4b10df744485ecf0a9b3f2e9024.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_b9f6f2d2ac2b7b2fe63d776e8e13c24b481a7b19.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_2c576a8e563e3338826268f172c9032c84366d16.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_d0b50351676da10c5403ec904cf7582636e65346.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_74d11c230ebb44ff9a69b4533a7333551d5bfc6c.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_1c3ff278ac430948dc31efeb1f7d2bb0466a1493.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_49168eeefdfb6e6030a5aed3fd7c1a83da870a9f.1920x1080.jpg?t=1777363040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/ss_3cc4e8cfcfb8a91d19d96f631f076d252ba2c0c4.1920x1080.jpg?t=1777363040"
+    ]
   },
   {
     "id": "steam_1091500",
@@ -98,17 +230,41 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 03:34",
-    "resolution": "1440p",
+    "duration": "Trailer: 01:51",
+    "resolution": "4K",
     "keywords": [
       "RPG"
     ],
     "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
     "category": "RPG",
-    "accessRights": "Rp 699 999",
-    "priceValue": 69999900,
+    "accessRights": "Rp 209 999",
+    "priceValue": 20999900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1091500/798578/0d0c54b81225b2b7760d1a99b6c5950cb85a1767/1750617872/hls_264_master.m3u8?t=1734434783",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4bda6f67580d94832ed2d5814e41ebe018ba1d9e.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_e5a94665dbfa5a30931cff2f45cdc0ebea9fcebb.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_429db1d013a0366417d650d84f1eff02d1a18c2d.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_872822c5e50dc71f345416098d29fc3ae5cd26c1.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ae4465fa8a44dd330dbeb7992ba196c2f32cabb1.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_f79fda81e6f3a37e0978054102102d71840f8b57.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_bb1a60b8e5061caef7208369f42c5c9d574c9ac4.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_a0c4e4015b5cf766d19bf97eee8b086183510e04.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b20689e73e3ac19bcc5fad2c18d0353c769de144.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ff3d920e254d18aa2a25d3765ac2ebe845efd208.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0002f18563d313bdd1d82c725d411408ebf762b0.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_526123764d1c628caa1eb62c596f1b732f416c8c.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_284ba40590de8f604ae693631c751a0aefdc452e.1920x1080.jpg?t=1769690377",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.1920x1080.jpg?t=1769690377"
+    ]
   },
   {
     "id": "steam_1172470",
@@ -118,8 +274,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 02:22",
-    "resolution": "1440p",
+    "duration": "Trailer: 03:18",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure",
@@ -130,7 +286,14 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1172470/79543479/ea737bc38a2b9cf10b5113768ff36c471ab6394d/1778273767/hls_264_master.m3u8?t=1778277648",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0ae2c002aa75d0b7309955960181fe402327d330/ss_0ae2c002aa75d0b7309955960181fe402327d330.1920x1080.jpg?t=1778502442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c07b405c6272c5dc2f6f25b76591c93ed8711c1d/ss_c07b405c6272c5dc2f6f25b76591c93ed8711c1d.1920x1080.jpg?t=1778502442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3/ss_96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3.1920x1080.jpg?t=1778502442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/899528308ad54733c8fc1ae825adb57195bface1/ss_899528308ad54733c8fc1ae825adb57195bface1.1920x1080.jpg?t=1778502442",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88/ss_736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88.1920x1080.jpg?t=1778502442"
+    ]
   },
   {
     "id": "steam_440",
@@ -141,8 +304,8 @@ export const mockGames = [
       "Windows",
       "Linux"
     ],
-    "duration": "Trailer: 03:55",
-    "resolution": "4K",
+    "duration": "Trailer: 03:16",
+    "resolution": "1080p",
     "keywords": [
       "Action",
       "Free To Play"
@@ -152,7 +315,24 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/440/129304/a9d97ffaf28cac468369400c12abe442a7b688b2/1749861261/hls_264_master.m3u8?t=1682961253",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ea21f7bbf4f79bada4554df5108d04b6889d3453.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_e3aedb2ab36bba8cfe611b1e0eaa807e4bb2d742.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_ee24a769dc1d81dcbd7b250d16530394adee4264.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_9faaa506d91bf19dbb398e0c06a684b337f85f91.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_7de978f22a7059151c31d0488dc57c5c7703c48b.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_e79f2490af3247b4b0f8d412d437b72c321cfe3b.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/ss_8f28c75172e3d08e65222725202b82f58bfe7df7.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002574.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002575.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002576.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002577.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002578.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002579.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002580.1920x1080.jpg?t=1757348372",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/0000002581.1920x1080.jpg?t=1757348372"
+    ]
   },
   {
     "id": "steam_252490",
@@ -163,8 +343,8 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 03:53",
-    "resolution": "1440p",
+    "duration": "Trailer: 01:45",
+    "resolution": "1080p",
     "keywords": [
       "Action",
       "Adventure",
@@ -177,7 +357,42 @@ export const mockGames = [
     "accessRights": "Rp 164 500",
     "priceValue": 16450000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/252490/102019/c573f5b01317174c7ae20a0abbcc3a39ccad32c2/1750487766/hls_264_master.m3u8?t=1699598112",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_271feae67943bdc141c1249aba116349397e9ba9.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_e825b087b95e51c3534383cfd75ad6e8038147c3.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_0e646f1a70e5cb8eed00efef8adb9579d40d5b2e.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69dc23d53163b755e809a562a377bd276154c70e/ss_69dc23d53163b755e809a562a377bd276154c70e.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_1c2d0d1eefee54f0c67626c74eb21699bbb0ef52.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_d0fdacaeef5a28a7cee525fd73376adfe083c964.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_bbf6c96e490326ec877ae548cb148e53516b5f83.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2a8518810024a5fbf9c714e697a43a1201b5d53e.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_c88939db635d959b25eb1bcf9b4c4dcdec04b3fe.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_eafe26f0577f9fc25d7a89884ea6f40381973c8a.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9652dbaf2de41b8c8f8305af714ee258564c453d.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53/ss_69d62fcffcc5db58fb8459b84ca9d0f2c0b5cf53.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_803a18bcbf6004706f12a1f88bb3cadbd9ac5f5b.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_aaa718a3cb0696a816456283526842c4f2d6b1bc.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_24483e657f7e59d74e4914f79c51d9c821454e98.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_dd5a5bf9a19b8b8a078dfdae8b7e09c0e78d2b4d.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_651097c65458ae555b42c42dd9667d7174397bdf.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_40bde646d6ed6ebda0d7f42f52d66d147935bbfa.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_21afaa3e6697adbb9173e0266c9de913a5a05457.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_9264a17b6bc1b3f9df55cf2aafcc25c6188bba59.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_69b259a1ab43e2e12f119ecb6b48117a7ff0b216.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ab3ddbe806dc742b564edd41ce5fa6480a0e1a47/ss_ab3ddbe806dc742b564edd41ce5fa6480a0e1a47.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_2166031b7e6eaedae3dfd8966421c6c4703b89ef.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_6c6269c7c6164876585e0728742156b49af966af.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_3834344f4f347f133a70096113d71ab3c5a7d587.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_f05168330593f4f476cd4a6a6094b248c7c8556e.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/6235d6bfe7e623b96de879dd6d57e1890464206f/ss_6235d6bfe7e623b96de879dd6d57e1890464206f.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_a63f203245f322f28cf489bf46beaeec780cccec.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/adcd2bf3ace8622d1654865ac3c461f6e122df76/ss_adcd2bf3ace8622d1654865ac3c461f6e122df76.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_326282c7485e8aff1ebf6750c82622afef098998.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/ss_08a111660a92c33c10d62e74620d258c216fd0bb.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/48b357bc6bb912333f362629bae43b32ec4c8081/ss_48b357bc6bb912333f362629bae43b32ec4c8081.1920x1080.jpg?t=1781536981",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/166928c0b3ccffbf0ed14bde3ecffeeadc541e7a/ss_166928c0b3ccffbf0ed14bde3ecffeeadc541e7a.1920x1080.jpg?t=1781536981"
+    ]
   },
   {
     "id": "steam_105600",
@@ -189,8 +404,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:57",
-    "resolution": "4K",
+    "duration": "Trailer: 01:49",
+    "resolution": "1440p",
     "keywords": [
       "Action",
       "Adventure",
@@ -202,7 +417,28 @@ export const mockGames = [
     "accessRights": "Rp 90 999",
     "priceValue": 9099900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/105600/1114648825/03d62ed8c2a353ea17f36caf492d053746655032/1769541214/hls_264_master.m3u8?t=1769844434",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_8c03886f214d2108cafca13845533eaa3d87d83f.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_ae168a00ab08104ba266dc30232654d4b3c919e5.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_9edd98caaf9357c2f40758f354475a56e356e8b0.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_75ea9a7e39eb34b40efa1e6dfd2536098dc4734b.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_782374517c1792debd74d24856203b876eba3a5d.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_04dd9f0a5773b686a452ba480b951f83b3ed5061.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_26c4a091c482be28efe1ecf4dfb498273e5a9107.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_830aa37570410b80947636785ff62096c0bf276f.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_0d805c81ef85dfd2a7a8b25da96f8066017fb3b3.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_b28125b8b8ccacbbb38a3ab4ceaf406ec94d98a4.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_900453507c3eb3df55175fb1362869cc75203594.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_a1dbbda90ea1669da35cf277e65b5191565bcb12.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_a34d1ebdc99634e012ea19759c12822802164b0e.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_6f57075d0d8f9d2fd963b74f9a4526bbf91aab10.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_ab3143003094dec454c5a76cc7d7948f17ca7517.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_1a091473c0b53e98d7a0708dd3ec0978dd56ba45.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_a81bfb762197b0aafc207274a708d79e7c39e45f.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_fefd40cad50a10c09f928f9dc3f9017f8fe50213.1920x1080.jpg?t=1769844435",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/ss_fd3a47380882311f6ff80cb2d4491d1de4af9e8b.1920x1080.jpg?t=1769844435"
+    ]
   },
   {
     "id": "steam_413150",
@@ -214,8 +450,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 03:51",
-    "resolution": "1440p",
+    "duration": "Trailer: 02:59",
+    "resolution": "4K",
     "keywords": [
       "Indie",
       "RPG",
@@ -226,7 +462,25 @@ export const mockGames = [
     "accessRights": "Rp 115 999",
     "priceValue": 11599900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/413150/336433/0058de516bf7c46986ba1e81172ffd3c2ca6cad7/1750527541/hls_264_master.m3u8?t=1754692862",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_9ac899fe2cda15d48b0549bba77ef8c4a090a71c.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4fa0866709ede3753fdf2745349b528d5e8c4054.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_d836f0a5b0447fb6a2bdb0a6ac5f954949d3c41e.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_10628b4a811c0a925a1433d4323f78c7017dbbe4.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_6422d297347258086b389e3d5d9c0e0c698312e4.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_a3ddf22cda3bd722df77dbdd58dbec393906b654.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_30aeedc47e731232ade368831a598d6545346f70.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_64d942a86eb527ac817f30cc04406796860a6fc1.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_37f15ea893ec1fa7c9e73106f512e98161bac61b.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_5e327e4cfc49d8137f8014e728eae3c0e6be2dca.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_980472fb4f4860639155880938b6ec292a0648c4.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_f79d2066dfaf32bbe87868d36db4845f771eddbd.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_4ff3fe6e9555052aaa076866407b0ba68fe73132.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_dee23745da417d2ceb0b16d9238bddbf5e227138.1920x1080.jpg?t=1754692865",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_f6f4c727570d753b2b5d8da6af4e0c38fe489059.1920x1080.jpg?t=1754692865"
+    ]
   },
   {
     "id": "steam_359550",
@@ -236,8 +490,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:15",
-    "resolution": "1080p",
+    "duration": "Trailer: 03:31",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Free To Play"
@@ -247,7 +501,20 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/a874bf3975eb2c291a67cf66172f126d211150fd/header_alt_assets_23.jpg?t=1781286900",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/359550/1400524054/4047a662e9db0c4fc0b6726db1cc305cb3c0db14/1780434019/hls_264_master.m3u8?t=1780434373",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ef9bc694ff724b3d64ac37968f35f9a6ec4c766a/ss_ef9bc694ff724b3d64ac37968f35f9a6ec4c766a.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/195233dcf0318762d848cceaf953318905da725e/ss_195233dcf0318762d848cceaf953318905da725e.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/66ed10cd105bff48135fa25aeaacf1201c46a552/ss_66ed10cd105bff48135fa25aeaacf1201c46a552.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/8363519296edec1c056176f25e20767da3e6e853/ss_8363519296edec1c056176f25e20767da3e6e853.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/5467c59d8651c801aab376432cb96f7a49803d7a/ss_5467c59d8651c801aab376432cb96f7a49803d7a.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1ee529c1c835164b7a2949a8b52ce79016d45690/ss_1ee529c1c835164b7a2949a8b52ce79016d45690.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/2e76d6f8373d28a16d214d67565198fd2f729b69/ss_2e76d6f8373d28a16d214d67565198fd2f729b69.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/a53bff65f0f16fb38967d850e9fd0b0f9f8fa8d3/ss_a53bff65f0f16fb38967d850e9fd0b0f9f8fa8d3.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/9d09f2d6a272e97d5799d4d8442e291bfbada867/ss_9d09f2d6a272e97d5799d4d8442e291bfbada867.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/a1a188d43212080d22a3baf4bea2609f256c6f79/ss_a1a188d43212080d22a3baf4bea2609f256c6f79.1920x1080.jpg?t=1781286900",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/cefbe91964e22a4c3fb71e68a248d57ebedbf4ab/ss_cefbe91964e22a4c3fb71e68a248d57ebedbf4ab.1920x1080.jpg?t=1781286900"
+    ]
   },
   {
     "id": "steam_230410",
@@ -257,8 +524,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:38",
-    "resolution": "1440p",
+    "duration": "Trailer: 03:58",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "RPG",
@@ -269,7 +536,15 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1781709800",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/230410/1805733905/334f64957d47e451df8854e0840da5ca03329ecc/1781634802/hls_264_master.m3u8?t=1781709564",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_2e4077f215eccde84171a4b8e0f2bc8a3264c776.1920x1080.jpg?t=1781709800",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_0a541a8bf59e212870ea8d82260ac1b3ae2d0354.1920x1080.jpg?t=1781709800",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_ce00a212a29e9a6c1fc37b16dbd802b2844a901d.1920x1080.jpg?t=1781709800",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_29355e0546599c72002b34b42fe952329df61c2e.1920x1080.jpg?t=1781709800",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_e1d1bfebe225c85ea284ffecfe279c2695ddf3a5.1920x1080.jpg?t=1781709800",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_b06620c448c51d2bc5b71144a184da9ba37b703e.1920x1080.jpg?t=1781709800"
+    ]
   },
   {
     "id": "steam_1245620",
@@ -279,8 +554,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:26",
-    "resolution": "1080p",
+    "duration": "Trailer: 01:20",
+    "resolution": "1440p",
     "keywords": [
       "Action",
       "RPG"
@@ -290,7 +565,19 @@ export const mockGames = [
     "accessRights": "Rp 599 000",
     "priceValue": 59900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1245620/468149/7d588828f80907ca97efdcb1e6ef72b4ce2b1d0d/1750650511/hls_264_master.m3u8?t=1654109241",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_3c41384a24d86dddd58a8f61db77f9dc0bfda8b5.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_ef61b771ee6b269b1f0cb484233e07a0bfb5f81b.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_b1b91299d7e4b94201ac840aa64de54d9f5cb7f3.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_510a02cf3045e841e180f2b77fb87545e0c8b59d.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_c494372930ca791bdc6221eca134f2270fb2cb9f.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_fa6b881ef7c30522012ab2b2b83001e79baee093.1920x1080.jpg?t=1767883716",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/ss_c2baf8aada6140beee79d701d14043899e91af47.1920x1080.jpg?t=1767883716"
+    ]
   },
   {
     "id": "steam_292030",
@@ -300,17 +587,37 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:21",
+    "duration": "Trailer: 02:14",
     "resolution": "1440p",
     "keywords": [
       "RPG"
     ],
     "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
     "category": "RPG",
-    "accessRights": "Rp 359 999",
-    "priceValue": 35999900,
+    "accessRights": "Rp 35 999",
+    "priceValue": 3599900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/292030/533363/f3f32404cd2382da7d05b8b64d3e6e261afca6d3/1750502468/hls_264_master.m3u8?t=1674829926",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_112b1e176c1bd271d8a565eacb6feaf90f240bb2.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d1b73b18cbcd5e9e412c7a1dead3c5cd7303d2ad.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_107600c1337accc09104f7a8aa7f275f23cad096.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_64eb760f9a2b67f6731a71cce3a8fb684b9af267.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_eda99e7f705a113d04ab2a7a36068f3e7b343d17.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_d5b80eb63c12a6484f26796f3e34410651bba068.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_b74d60ee215337d765e4d20c8ca6710ae2362cc2.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_dc55eeb409d6e187456a8e159018e8da098fa468.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_849ec8dcc6f8df1c0b2c509584c9fc9e51f88cfa.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_90a33d7764a2d23306091bfcb52265c3506b4fdb.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_07812c174bb6b96c29895ddc27404143df7aba6d.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_ed23139c916fdb9f6dd23b2a6a01d0fbd2dd1a4f.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_dc33eb233555c13fce939ccaac667bc54e3c4a27.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_908485cbb1401b1ebf42e3d21a860ddc53517b08.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_608af6cfe0eab3f37265550b391732a3e88d1a4f.1920x1080.jpg?t=1768303991",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ss_8ac1dc847388e59b1be1c5ea5ca592d5861756cc.1920x1080.jpg?t=1768303991"
+    ]
   },
   {
     "id": "steam_400",
@@ -321,8 +628,8 @@ export const mockGames = [
       "Windows",
       "Linux"
     ],
-    "duration": "Trailer: 02:48",
-    "resolution": "4K",
+    "duration": "Trailer: 03:16",
+    "resolution": "1080p",
     "keywords": [
       "Action"
     ],
@@ -331,7 +638,20 @@ export const mockGames = [
     "accessRights": "Rp 90 999",
     "priceValue": 9099900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/400/336/858d7ae015068388644e14742bd90801fbb8a805/1750108766/hls_264_master.m3u8?t=1682715059",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002582.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002583.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002584.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002585.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002586.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002587.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/0000002588.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_25aa95176ac6319fad955b31554451f3ea61f1e8.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_15c08be59046abbd785ab8e7e8857ba8633f292b.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_5d9a2b799aaaa6f8992128c126e68b7e8d718715.1920x1080.jpg?t=1745368554",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/ss_3164c436ce7708dcf0f46bb4569e7f7b83ccb01e.1920x1080.jpg?t=1745368554"
+    ]
   },
   {
     "id": "steam_620",
@@ -342,8 +662,8 @@ export const mockGames = [
       "Windows",
       "Linux"
     ],
-    "duration": "Trailer: 01:21",
-    "resolution": "1440p",
+    "duration": "Trailer: 01:58",
+    "resolution": "1080p",
     "keywords": [
       "Action",
       "Adventure"
@@ -353,7 +673,21 @@ export const mockGames = [
     "accessRights": "Rp 90 999",
     "priceValue": 9099900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/620/3746/0f4bee66d490b637707ac4fca3e850f2cc2d3b2a/1750108721/hls_264_master.m3u8?t=1682715616",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_6a4f5afdaa98402de9cf0b59fed27bab3256a6f4.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_0cdd90fafc160b52d08b303d205f9fd4e83cf164.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_ec35a739b4b33270eb170d9e561c5b016cba50a6.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_8a772608d29ffd56ac013d2ac7c4388b96e87a21.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_358127df30a766a1516ad139083c2bcec3fe0975.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_410c7955c3cc8ca4a5e3c81daa214f534c9aabc8.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_0e16bceacb6616a5ca4bc4ba4d28c7a0d06b671c.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_d8f172249d6e89999c3692bf2c380921f197fd82.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_fe9782ea3b43ef7af37b18e0a5c5f7bdc9c21f12.1920x1080.jpg?t=1745363004",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_3858536cbc0a07dfbe36e8f87b3f08bf3be45e54.1920x1080.jpg?t=1745363004"
+    ]
   },
   {
     "id": "steam_892970",
@@ -365,8 +699,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 03:10",
-    "resolution": "1440p",
+    "duration": "Trailer: 03:18",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure",
@@ -379,7 +713,27 @@ export const mockGames = [
     "accessRights": "Rp 214 999",
     "priceValue": 21499900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/892970/700057/92243856917a479ef44b4ab22d3378a272c6fffc/1750594091/hls_264_master.m3u8?t=1715688262",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_6032c9336c6cf9c1ebc914cedf022b38e97fd271.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f6cbfeea728d557fa9f483685fea3205f08f5d9e.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_551f06a43b72609d7ca3cd63e93c58e949d58384.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_f4ea4f0f93cc8b38042f6d5916413da185ec221c.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_553301e2432883e9f026fe1dd0e91d7a8886d6f1.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_9b4abc60696de192c40064364a1395ad5074e5c3.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_15a86a1c4175f9392127265735c177a91535de65.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_ad81cc7ced8585ad344ba50e9d0b4bf9c597e62e.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_4ba939a383dc363c14e6cb7995322f39a5a26b07.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_988d92f03856895ef73a636ad20c2951086b865c.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_8db2e5f40b64e105c7174b3d3679fce6d7a04d20.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_b3c171e257dd1a3173254b1b61a7995dec204df4.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_64ae63dcfde6612266cf72884132fa144908b777.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_0c218f8040f1d7850baff4ff4e3109942388ac98.1920x1080.jpg?t=1765967243",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_e79d3106549c1269a14888f2095e4c667643c3ad.1920x1080.jpg?t=1765967243"
+    ]
   },
   {
     "id": "steam_394360",
@@ -391,7 +745,7 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:17",
+    "duration": "Trailer: 02:15",
     "resolution": "1080p",
     "keywords": [
       "Simulation",
@@ -402,7 +756,15 @@ export const mockGames = [
     "accessRights": "Rp 112 799",
     "priceValue": 11279900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1781595476",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/394360/682731/bd7bbea629ccbef568dd3c4d8552ba6e05b3c0ed/1750525316/hls_264_master.m3u8?t=1712235668",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.1920x1080.jpg?t=1781595476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.1920x1080.jpg?t=1781595476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.1920x1080.jpg?t=1781595476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_fc239db7ed07e8ec4e6440cd0c6ced88a955d90e.1920x1080.jpg?t=1781595476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_c7916f607a289830f424daebe3e2f281afbb456b.1920x1080.jpg?t=1781595476",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_f07f7ebc18d5e6a9692ec748a4f203fe0c748feb.1920x1080.jpg?t=1781595476"
+    ]
   },
   {
     "id": "steam_281990",
@@ -414,8 +776,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 03:27",
-    "resolution": "4K",
+    "duration": "Trailer: 02:59",
+    "resolution": "1080p",
     "keywords": [
       "Simulation",
       "Strategy"
@@ -424,8 +786,16 @@ export const mockGames = [
     "category": "Simulation",
     "accessRights": "Rp 169 199",
     "priceValue": 16919900,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/521716e888b3d7815dd340e00856f0b549b6a9c7/header_alt_assets_12.jpg?t=1781528310",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/660fc0d4ebfa0bbbfa4b0b6b649ad18db5d23f6b/header_alt_assets_13.jpg?t=1781784917",
+    "video": "https://video.akamai.steamstatic.com/store_trailers/281990/697519/ffaae49b5a49dfc92b227718ab057d321e644404/1750489080/hls_264_master.m3u8?t=1715273904",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_f844372cc220e3858aa17205e9fec0ae79a4e665.1920x1080.jpg?t=1781784917",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_692532123e560e6b866baee59b1e310a291a110d.1920x1080.jpg?t=1781784917",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_7f4d7cc160c43e77aa523e910b365e0ca436e6bb.1920x1080.jpg?t=1781784917",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_034b0d55a5c370bec4709f09d0914f9d131b7788.1920x1080.jpg?t=1781784917",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_ee82888c27afb4174cf4cae6298b54c7c1e2a682.1920x1080.jpg?t=1781784917",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_fc94710913be85306f2fe5258d0f0d8d1c87e945.1920x1080.jpg?t=1781784917"
+    ]
   },
   {
     "id": "steam_1085660",
@@ -435,8 +805,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:46",
-    "resolution": "4K",
+    "duration": "Trailer: 02:15",
+    "resolution": "1080p",
     "keywords": [
       "Action",
       "Adventure",
@@ -446,8 +816,20 @@ export const mockGames = [
     "category": "Action",
     "accessRights": "Free-to-Play",
     "priceValue": 0,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1085660/974599080/c5aa553f848055fbdd6320508535ffdc329f57d8/1781044140/hls_264_master.m3u8?t=1781045584",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d7038cee22b9de60003e7bbc07d65069ad6044ab/ss_d7038cee22b9de60003e7bbc07d65069ad6044ab.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/766aedcb8d2eb8fcb08002919ee10f5ac6c02d79/ss_766aedcb8d2eb8fcb08002919ee10f5ac6c02d79.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d3a51ac12ac9b30af96b7e7a5bcef8f56abf5ca4/ss_d3a51ac12ac9b30af96b7e7a5bcef8f56abf5ca4.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/2349f3a573a24b1b655c6572cac875dc5b2a614b/ss_2349f3a573a24b1b655c6572cac875dc5b2a614b.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/ee7a094acba3af1870aee7c8ed51aeaf64093450/ss_ee7a094acba3af1870aee7c8ed51aeaf64093450.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/d01f2b8da7c45f28011349fe023ffad3cedfa7a1/ss_d01f2b8da7c45f28011349fe023ffad3cedfa7a1.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/9ae9e66d390ec9f2fd1996b62b8459b44071c8e5/ss_9ae9e66d390ec9f2fd1996b62b8459b44071c8e5.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/514d9e7e54a361d66877d0af31a6c3a8e2c95382/ss_514d9e7e54a361d66877d0af31a6c3a8e2c95382.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/adbbe5f916e2539a02062f6740b5c3d4bf1e1bd2/ss_adbbe5f916e2539a02062f6740b5c3d4bf1e1bd2.1920x1080.jpg?t=1781815889",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/84ee7a1c0e73745436c4a7ad9a809894b2679bc6/ss_84ee7a1c0e73745436c4a7ad9a809894b2679bc6.1920x1080.jpg?t=1781815889"
+    ]
   },
   {
     "id": "steam_1174180",
@@ -457,8 +839,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 02:50",
-    "resolution": "4K",
+    "duration": "Trailer: 02:13",
+    "resolution": "1080p",
     "keywords": [
       "Action",
       "Adventure"
@@ -468,7 +850,14 @@ export const mockGames = [
     "accessRights": "Rp 879 000",
     "priceValue": 87900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1174180/254764/7a9619def1d2b41fbb7aeab0ebd6a2b4ada81f0d/1750634248/hls_264_master.m3u8?t=1574881352",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.1920x1080.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.1920x1080.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.1920x1080.jpg?t=1759502961",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.1920x1080.jpg?t=1759502961"
+    ]
   },
   {
     "id": "steam_236390",
@@ -480,8 +869,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:15",
-    "resolution": "4K",
+    "duration": "Trailer: 01:44",
+    "resolution": "1440p",
     "keywords": [
       "Action",
       "Massively Multiplayer",
@@ -493,7 +882,42 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ceff9434460880755b42a90b8915e87dff4482ad/header.jpg?t=1781704578",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/236390/226765004/ab756bab6473a9a59e9bf6b1c0701649a5d9ed8a/1773737099/hls_264_master.m3u8?t=1773825749",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/3ebe1f69263e66ccb0ec46787b6100be140145af/ss_3ebe1f69263e66ccb0ec46787b6100be140145af.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/cbed7b022955a37a55644d56dd8ac72636e03c60/ss_cbed7b022955a37a55644d56dd8ac72636e03c60.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/875a44d0f22aed5f21028da06e76fe7eb54756f0/ss_875a44d0f22aed5f21028da06e76fe7eb54756f0.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/52df38f52c9981fd6b3e4ef2d501a9d8e9bfdad3/ss_52df38f52c9981fd6b3e4ef2d501a9d8e9bfdad3.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/fe3f2ae7e236f70c8280dd1836ea58f23d57a9e6/ss_fe3f2ae7e236f70c8280dd1836ea58f23d57a9e6.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/38d63d92458c950a7d839f1c46f20d55fc60a66f/ss_38d63d92458c950a7d839f1c46f20d55fc60a66f.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_3801dc6ae62e793aee2f073c2ac755c85edf0bb7.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_15343f845523e07d5fc51c6208f362b7bcaa1fbe.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_8c28d914813b82f36d306e5ea322a70f9050f9bc.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_3b32e04e856b77472bff33d55ca6b5758d23a9ae.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_a2d9ec25f81e89139efaf49378e7b33b6f64e0cc.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_70249ce2d057b7594e2039b88adbdd700c4df1ac.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_ab307923f93a44acea6ef3314048c7404b1fe654.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_68bc95495ba9752b44d6655f07cf41a5c26306f6.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_fee9c41789ba7227b3cc66db04d8d8f72b3c15cb.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_258eede8c5ee4ccd73216bb24c7b5db8a2b214ed.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_fc8ee5cc6816996943aa1d7487113d15b8f84c44.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_e54b59429ee1a4519fc9c3cac0a56bb44b87552f.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_8c5c57e42894258fd4e8f2898eb6b87284f7ffdc.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_74240f43f87b1caf2dd578f26dfd025ca4fdf19c.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_8ac0990217f963789d3b451c29c4d3fd3008f4c7.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_318da56acde01dd085fa93881da41033dd098e7d.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_367ad85e6d1c10b611a6f0360cdbae4cb29707fa.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_9568df089685277e726640a8d79cdc4aede97f43.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_368c7b4cd154237e7a635fbb733f6abdcc2b81ee.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_070f48bca52544a2067bd2da93489df54c616d5a.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_aef518de9c6987834e6302075e712911663669a2.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_2db2db271ad8363ff47be7ca3e76566c30be38dc.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_d4c1359a11b745203d1e67d646910d32c6985883.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_b55e723b5a7bd4d7838fd0d873470e32ad21a63c.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_6b8b7310dce06e8eb5e0cb3b203ba19aa65df442.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_a997036262cd5316e54e0b4ab257ea0ddaa212df.1920x1080.jpg?t=1781704578",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ss_122cf1a37b5405f055afe58539997ff139b1fde2.1920x1080.jpg?t=1781704578"
+    ]
   },
   {
     "id": "steam_381210",
@@ -503,7 +927,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:25",
+    "duration": "Trailer: 01:17",
     "resolution": "4K",
     "keywords": [
       "Action"
@@ -512,8 +936,16 @@ export const mockGames = [
     "category": "Action",
     "accessRights": "Rp 87 956",
     "priceValue": 8795600,
-    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781638389",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781795618",
+    "video": "https://video.akamai.steamstatic.com/store_trailers/381210/2023277386/529a037c508a565473e058ae680d112fa643cb90/1778680125/hls_264_master.m3u8?t=1778767162",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.1920x1080.jpg?t=1781795618",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.1920x1080.jpg?t=1781795618",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.1920x1080.jpg?t=1781795618",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.1920x1080.jpg?t=1781795618",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.1920x1080.jpg?t=1781795618",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.1920x1080.jpg?t=1781795618"
+    ]
   },
   {
     "id": "steam_252950",
@@ -523,7 +955,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:40",
+    "duration": "Trailer: 02:55",
     "resolution": "4K",
     "keywords": [
       "Action",
@@ -536,7 +968,15 @@ export const mockGames = [
     "accessRights": "Premium",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/0a3a0440e101436b154c06040722f27950d67e22/header_alt_assets_16.jpg?t=1781288662",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/252950/942892159/fbc06efa0aa0163e45779b5bca2a5bc7718021cd/1781104801/hls_264_master.m3u8?t=1781106868",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/aec309826d6c6d9b6e8cc18e6d6836965351aaed/ss_aec309826d6c6d9b6e8cc18e6d6836965351aaed.1920x1080.jpg?t=1781288662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/25076a740a4fcf7eb42356b03d3c955456413339/ss_25076a740a4fcf7eb42356b03d3c955456413339.1920x1080.jpg?t=1781288662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/9821bcbca5e197fb2e98f98427dae8561f03b272/ss_9821bcbca5e197fb2e98f98427dae8561f03b272.1920x1080.jpg?t=1781288662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/50ded83633d947340d48c74ba133ed80a335b2b5/ss_50ded83633d947340d48c74ba133ed80a335b2b5.1920x1080.jpg?t=1781288662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/0d1b0c0d0431bda5be59f2a6ded31568f6d456ff/ss_0d1b0c0d0431bda5be59f2a6ded31568f6d456ff.1920x1080.jpg?t=1781288662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/dea5ad0013c8f923b966abc8437a885e3bae4f08/ss_dea5ad0013c8f923b966abc8437a885e3bae4f08.1920x1080.jpg?t=1781288662"
+    ]
   },
   {
     "id": "steam_550",
@@ -547,8 +987,8 @@ export const mockGames = [
       "Windows",
       "Linux"
     ],
-    "duration": "Trailer: 02:23",
-    "resolution": "1440p",
+    "duration": "Trailer: 03:26",
+    "resolution": "4K",
     "keywords": [
       "Action"
     ],
@@ -557,7 +997,26 @@ export const mockGames = [
     "accessRights": "Rp 90 999",
     "priceValue": 9099900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/550/4183/7fdfab73a52d6b4e69a693f77c66620c53086cbd/1749861554/hls_264_master.m3u8?t=1682697457",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2eae29fbdfe8e5e8999b96d8bb28c5db70507968.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_29b3b4f2a3994c889f6fc12e0781d9d4726ef33f.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_9488e329bb42d792a059fb44cb7135d25b6262f5.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6ec4ee04d4924b099e25ce79f3d6571c3b623b3b.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_73ad69168a263ce585e4823d9607d901719ca3c5.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_a9c1227ffe8a1968e234b3ebda08e773fc619e37.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_ba2ea2eda245f89626277457ae2ab76ba997f46a.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_7098be159cfe3cc524fb68b2585f643324cc1078.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_67275710127ce20b62015718dbf84147fde7fc17.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_d97ee8bd9a512f350bd9433730db26da76ff7a29.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_6d2a44e590caa0cc2946d8397d4dd160cbd3f6ed.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_b7e72ed4d0af894a61d8c6bb5def3d169f56c702.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_b8bcf2ebdb67a32b4a1e7273a4e9eae92243ed64.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_40c3f02a01ce435ea776b07fde7710c66532e6b6.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_13912b20f591bfde622fc87174b3265a579bd9c9.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_2b06e1786598ab033411c27600de1868f023c663.1920x1080.jpg?t=1772742214",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/ss_1d9d6e638c8ad4b04fac0f49ca32947b31396f24.1920x1080.jpg?t=1772742214"
+    ]
   },
   {
     "id": "steam_814380",
@@ -567,8 +1026,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 02:16",
-    "resolution": "1080p",
+    "duration": "Trailer: 01:33",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure"
@@ -578,7 +1037,14 @@ export const mockGames = [
     "accessRights": "Rp 891 000",
     "priceValue": 89100000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/814380/322401/63cf1fdf9c16536f04b08a5b1939909f7a99a340/1750586450/hls_264_master.m3u8?t=1603837979",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_0f7b0f8ed9ffc49aba26f9328caa9a1d59ad60f0.1920x1080.jpg?t=1762888662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_2685dd844a2a523b6c7ec207d46a538db6a908cd.1920x1080.jpg?t=1762888662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_15f0e9982621aed44900215ad283811af0779b1d.1920x1080.jpg?t=1762888662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_1e6f5540866a5564d65df915c22fe1e57e336a6f.1920x1080.jpg?t=1762888662",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/ss_3d6b38c382c0eafb02dc90d22f33fd292e4e5cf3.1920x1080.jpg?t=1762888662"
+    ]
   },
   {
     "id": "steam_1151640",
@@ -588,7 +1054,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:59",
+    "duration": "Trailer: 03:18",
     "resolution": "4K",
     "keywords": [
       "Action",
@@ -600,7 +1066,14 @@ export const mockGames = [
     "accessRights": "Premium",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1776465788",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1151640/485458/b72c7c802a69651c05bdeeb5e847600319226b41/1750629501/hls_264_master.m3u8?t=1659711061",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_d09106060fb7de8bf342c23df18b14debc8a15a3.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_271f850eec3f96b22aa17be35b948268e0771c7f.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_15f5759c441e4e5f51e1a8ee333e4ab9df9aa783.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_f7cf51f1ccd909264f2c5814f328e3f72e7b62bd.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_9db45aa04e8c8b5043b479f42ed36296bfc3a918.1920x1080.jpg?t=1776465788"
+    ]
   },
   {
     "id": "steam_489830",
@@ -610,8 +1083,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:26",
-    "resolution": "4K",
+    "duration": "Trailer: 02:22",
+    "resolution": "1440p",
     "keywords": [
       "RPG"
     ],
@@ -620,7 +1093,17 @@ export const mockGames = [
     "accessRights": "Rp 329 999",
     "priceValue": 32999900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/489830/77128/20c56f14e492b05846f7262a246b4e4f0d455f7f/1750536877/hls_264_master.m3u8?t=1476991615",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_50c3da9e29e9b0368889379cdd03a71aba8d614c.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_2ca72f4ecc42a18dd4bf056c539a9794c2b2493d.1920x1080.jpg?t=1753715778",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_5d19c69d33abca6f6271d75f371d4241c0d6b2d1.1920x1080.jpg?t=1753715778"
+    ]
   },
   {
     "id": "steam_1811260",
@@ -630,8 +1113,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:38",
-    "resolution": "4K",
+    "duration": "Trailer: 01:26",
+    "resolution": "1080p",
     "keywords": [
       "Simulation",
       "Sports"
@@ -641,7 +1124,20 @@ export const mockGames = [
     "accessRights": "Premium",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/header.jpg?t=1750187458",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1811260/560218/7db2aa4b46841adcbd056677b94940fcbc399124/1751033696/hls_264_master.m3u8?t=1682117044",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_35790d46d9aac68a546ccfccabc778135698778a.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_a51b0f81035e0b3310f45b8fbfd9e11f467a63a0.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_75d1340c0d96d972fef1d9c6561659090ca936ee.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_d4a3074f1adff15b34cf9052574fdea1608f979a.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_ab486c0f1c8e8a936b2fbf1dbd953e810be81697.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_cb923eeea4afb2865227625d0512c1a2d956cd43.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_b11ed2d9359cfce8e9c693c85c95b5e5ea12bcec.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_4b7a5a06d936f98c79dd8c53e3fbdb70e7795bb1.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_93965abb2b5c8cc0a93de1c1e9c3e75cad06fb80.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_a7952f00209d661a0f05899b6567a4ddc4c43deb.1920x1080.jpg?t=1750187458",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/ss_a69d3435ce31da724e24d30af98b0196ff7e55fd.1920x1080.jpg?t=1750187458"
+    ]
   },
   {
     "id": "steam_236850",
@@ -653,8 +1149,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:25",
-    "resolution": "1440p",
+    "duration": "Trailer: 01:19",
+    "resolution": "1080p",
     "keywords": [
       "Simulation",
       "Strategy"
@@ -664,7 +1160,19 @@ export const mockGames = [
     "accessRights": "Rp 563 999",
     "priceValue": 56399900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg?t=1778249292",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/236850/592925/9956cfde3066da891920dcc5ee5886cd53bf850a/1750496978/hls_264_master.m3u8?t=1690890454",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_505866198168d5ebaf3b4b76caeca2ee55883786.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_a7a6735657b6aafd1125b9b4280a0f73e5fc2981.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_0f31b85193b9e40fd70f710c0ac8fa843c96b604.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_83179e7c220e4bf9a396c77e8a566a4c9d30d686.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_d3ca5ede1b13ce7c1782ddd2a182d313f914d937.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_b17cebc702b38599cfce8d6bc50b48946fb5a14e.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_375685e265563ba8240939189ee6afbaf681596c.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_5f121c7e811451deee1fa15b3fcfd95ea072f6b2.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_cc4dfbcd841948ebf45ab082466064ff7cfbfd94.1920x1080.jpg?t=1778249292",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_4d65ea97a30ab87a81159cdda7c5e0952fb55b01.1920x1080.jpg?t=1778249292"
+    ]
   },
   {
     "id": "steam_203160",
@@ -675,8 +1183,8 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 02:43",
-    "resolution": "1080p",
+    "duration": "Trailer: 03:26",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure"
@@ -686,7 +1194,19 @@ export const mockGames = [
     "accessRights": "Rp 217 000",
     "priceValue": 21700000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/9e67774e97cdd155f287146e62611eb445514ac6/header.jpg?t=1765220424",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/203160/57091/81e26eed88d177276ad6b95c538fd0cb3d350281/1750498798/hls_264_master.m3u8?t=1461660154",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_65861a8ea2efcb01fca8aa4b1233663bb053ab54.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_cd920308517efb19c11b44e251af89e40fb412d5.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_8f34a87469f3a0c73049cbd0469bdff6e3d22713.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_822faf14b04eac6140067109e75a5a859f4f42db.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_7d3c4be984498b4374210a3291e5cf266fa6dd32.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_c93f9a97f2fd890f21c829cf8781850484eec7f3.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_846fd1166a03b1d3147618aaba1ff7ef4477085d.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_b49a25cb879b6dbaa6f851eae3b5bf6d3fc04478.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_d846ccc3ea1e73a8828568a84b853632d0ad603b.1920x1080.jpg?t=1765220424",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/ss_73efb9bc2ccd0b783fb6408339495780cac87446.1920x1080.jpg?t=1765220424"
+    ]
   },
   {
     "id": "steam_1097150",
@@ -696,8 +1216,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:47",
-    "resolution": "4K",
+    "duration": "Trailer: 01:43",
+    "resolution": "1080p",
     "keywords": [
       "Action",
       "Casual",
@@ -710,7 +1230,16 @@ export const mockGames = [
     "accessRights": "Premium",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg?t=1698763175",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_6b957574e0e60159e692d926ae7104dc54c207c7.1920x1080.jpg?t=1698763175",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_8a3bfa98cf4b35d78ccf0d24f4d459af8f6965e2.1920x1080.jpg?t=1698763175",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_9e380dcadcaa9d0cd6c34b0a508f2624030b135b.1920x1080.jpg?t=1698763175",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_b695ced32eeef3059970c195b222460990d55401.1920x1080.jpg?t=1698763175",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_99f491b2df8f09b7a9421c1d055a150fbed98530.1920x1080.jpg?t=1698763175",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_9cf27581d536cb4f6dd11f32a107260d9d52c59b.1920x1080.jpg?t=1698763175",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/ss_9b9718891318cdfe784b6daba63511b1b3823256.1920x1080.jpg?t=1698763175"
+    ]
   },
   {
     "id": "steam_1240440",
@@ -720,7 +1249,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:51",
+    "duration": "Trailer: 02:48",
     "resolution": "4K",
     "keywords": [
       "Action",
@@ -731,7 +1260,16 @@ export const mockGames = [
     "accessRights": "Free-to-Play",
     "priceValue": 0,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1240440/936278492/afe04d9d8aea3317306d85b8383b8ad98787b2eb/1763417086/hls_264_master.m3u8?t=1763576586",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/8f26ccb1035f6244fa8207a95435666d57e9c77f/ss_8f26ccb1035f6244fa8207a95435666d57e9c77f.1920x1080.jpg?t=1774464322",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/11b6e12f4fe97f00ef37d4d9c7b730bfd5d07fdd/ss_11b6e12f4fe97f00ef37d4d9c7b730bfd5d07fdd.1920x1080.jpg?t=1774464322",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2b1478c28ebdf38b5f8d82de0d72227cdaaf7bbb/ss_2b1478c28ebdf38b5f8d82de0d72227cdaaf7bbb.1920x1080.jpg?t=1774464322",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/9fa7ba3e331c56a7e58d47ec34d9bbb9a4e2d47e/ss_9fa7ba3e331c56a7e58d47ec34d9bbb9a4e2d47e.1920x1080.jpg?t=1774464322",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/d8d86f14b8a5fdfe029dc88ae317817515c7f92c/ss_d8d86f14b8a5fdfe029dc88ae317817515c7f92c.1920x1080.jpg?t=1774464322",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/15b015e76198ba3835ddcff24316ddf090148ba3/ss_15b015e76198ba3835ddcff24316ddf090148ba3.1920x1080.jpg?t=1774464322",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/6b6a6a963801ffe33aa3ff8454cda99ba2a53d53/ss_6b6a6a963801ffe33aa3ff8454cda99ba2a53d53.1920x1080.jpg?t=1774464322"
+    ]
   },
   {
     "id": "steam_275850",
@@ -742,7 +1280,7 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 02:38",
+    "duration": "Trailer: 03:45",
     "resolution": "1080p",
     "keywords": [
       "Action",
@@ -753,7 +1291,190 @@ export const mockGames = [
     "accessRights": "Rp 449 999",
     "priceValue": 44999900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/275850/1357812463/db664a7c182f435166c7e128e51849825a5a6a5a/1779704885/hls_264_master.m3u8?t=1779887225",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/461fd47ac75ae169f274f0c8b222ad77fbc45ce7/ss_461fd47ac75ae169f274f0c8b222ad77fbc45ce7.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/71f533720e58e1fb5dd61f23388abfe4f9caa6b5/ss_71f533720e58e1fb5dd61f23388abfe4f9caa6b5.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/6db1fa75dba6d47fa8484c1565fc544023c300d0/ss_6db1fa75dba6d47fa8484c1565fc544023c300d0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/251992eb497ebef3bbd6e81e2c3e80a00d2770a6/ss_251992eb497ebef3bbd6e81e2c3e80a00d2770a6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/d8de91e4a87f0e2c0fb70c84bd0f798bd4617eaf/ss_d8de91e4a87f0e2c0fb70c84bd0f798bd4617eaf.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/1712db8fdd282cb1a4c87598148e0fbb9bc0b744/ss_1712db8fdd282cb1a4c87598148e0fbb9bc0b744.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/e7185644d3b019d8fc00453f860d227271cd256c/ss_e7185644d3b019d8fc00453f860d227271cd256c.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9cdcc33b0e694243494404e51678461b53154c33/ss_9cdcc33b0e694243494404e51678461b53154c33.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d4884d4d208b3f6a3ecef898559da7a36102fc70.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/91503b91cfbdcac193d9f49698f296b8f11c10c5/ss_91503b91cfbdcac193d9f49698f296b8f11c10c5.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/c8c02777af9b4c846a0d940a0c29849283ef5655/ss_c8c02777af9b4c846a0d940a0c29849283ef5655.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_32256c21c6bfd9032debf56e1af47029e6d9f9b0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/5b0bf2abfe3675f8483e56dcc40050842af3990d/ss_5b0bf2abfe3675f8483e56dcc40050842af3990d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/298422319886b5166bdbbd2250f12374923b87a4/ss_298422319886b5166bdbbd2250f12374923b87a4.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/d8708934606f81dd909e971785926ab70a871236/ss_d8708934606f81dd909e971785926ab70a871236.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/b522d74c0a4574faf1707b645fc9c79d6d59fda9/ss_b522d74c0a4574faf1707b645fc9c79d6d59fda9.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/5f237259c7296d826767f44381c7c8e431d8b7c6/ss_5f237259c7296d826767f44381c7c8e431d8b7c6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/a26b4dc2a2956137554a7ee8ca3cf42bbcd55b48/ss_a26b4dc2a2956137554a7ee8ca3cf42bbcd55b48.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/44d50b1cfa2ee8355a8aa131bcc79be451e3887e/ss_44d50b1cfa2ee8355a8aa131bcc79be451e3887e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/1503ab617d647f84013b88efb207d09b494e23ab/ss_1503ab617d647f84013b88efb207d09b494e23ab.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/e7d9dd1a847bc7212a52c20bd4b4f788a2e6601b/ss_e7d9dd1a847bc7212a52c20bd4b4f788a2e6601b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/7c5c5073274c0b258fda06203cf92b2857dea4a0/ss_7c5c5073274c0b258fda06203cf92b2857dea4a0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/47005e90c31a62121610cbf29ce3dcc3c49dfa96/ss_47005e90c31a62121610cbf29ce3dcc3c49dfa96.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/6c95901073189a7f6fb71ab032174e83cec2d885/ss_6c95901073189a7f6fb71ab032174e83cec2d885.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/e70c0a08b30b925583daedf4c200d5453e533f45/ss_e70c0a08b30b925583daedf4c200d5453e533f45.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dcd51621feaaf4c58fbe1657f0bd02e501583e17/ss_dcd51621feaaf4c58fbe1657f0bd02e501583e17.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/0302a855a5f3d3fe6a82121662b94ff97281f6fa/ss_0302a855a5f3d3fe6a82121662b94ff97281f6fa.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/f143e23d463b92d481e932705bbdb51297e9eb4c/ss_f143e23d463b92d481e932705bbdb51297e9eb4c.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/833e4098fa8891e7ed0f3177b4c23bb3f063bdce/ss_833e4098fa8891e7ed0f3177b4c23bb3f063bdce.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/6a9116be4ac9f941e1c59d1e285e394357e00e56/ss_6a9116be4ac9f941e1c59d1e285e394357e00e56.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/7ebbceb1d190c49ec622cc732ff59d428f0a8a51/ss_7ebbceb1d190c49ec622cc732ff59d428f0a8a51.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/34b544efeffeef35c43344d8e0a5ae4b9d5d8e8b/ss_34b544efeffeef35c43344d8e0a5ae4b9d5d8e8b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_6db23417448ace0654d98a6ccd45e1c30521ef02.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2a3159513cb35bd028cdf0343da64b9f4a4197d2/ss_2a3159513cb35bd028cdf0343da64b9f4a4197d2.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/59e00077f07aa2a458765117ca31929d851f1b50/ss_59e00077f07aa2a458765117ca31929d851f1b50.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/5352c315d08e3282fb925f1d5d16f96de7bf7f4d/ss_5352c315d08e3282fb925f1d5d16f96de7bf7f4d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/97b5816a0535251687587bbfd459a9277e8336b5/ss_97b5816a0535251687587bbfd459a9277e8336b5.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/56f40e78d7962b3d20f8b9fd4607923852e03026/ss_56f40e78d7962b3d20f8b9fd4607923852e03026.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/33fa22dc40d0f3856728a88d8db99780ac61ff9f/ss_33fa22dc40d0f3856728a88d8db99780ac61ff9f.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/0689893ccfe4dc5449ed24ccabb86143b35307d6/ss_0689893ccfe4dc5449ed24ccabb86143b35307d6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_25d50c18655c88fc9fb82965183d2abca23274cc.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/55005bf6452922532c1f1d176765a89b3ea3fa35/ss_55005bf6452922532c1f1d176765a89b3ea3fa35.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/624baa3df387d9c784429b2703cfcd4bea1d5e3e/ss_624baa3df387d9c784429b2703cfcd4bea1d5e3e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/6a308e9fcbc035dbd9565dd6be78b955d6efa90d/ss_6a308e9fcbc035dbd9565dd6be78b955d6efa90d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/510fae01ac0780244fd7ae939bdb128e4c3b266a/ss_510fae01ac0780244fd7ae939bdb128e4c3b266a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b793cc63903d6e2f5602c59adc880c585c7a856a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/53dac1cdb3fa8738ed66c5a37e6a8b6262a99719/ss_53dac1cdb3fa8738ed66c5a37e6a8b6262a99719.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_af35a4cc3f86e82e5b9f1984594a3764e86bbb2c.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_bb91e96899c94e6c023ea3f937f009a7e1e87271.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_455cb0517112ec5e40619531f26f90a76dcf7e2e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_20fdd0723daf82ce4018f35e351e5dc9b00f3867.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_79e481afac7287bc19819dae14924897a9b08d9c.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_612fc615793f9a44a83cae220495361143ee515b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_92fc5d57fc190444ac2eff27ef8533cb987edf32.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_cc758ee41158374376640b1ae6801eb6cca6babe.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d74a35a8ee474c2c723eb60964f6d8b70e2817a0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_c98c8afd15b3e9f2f6b210b35a1a0b98c4b76ba0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_76d20137f8f7d3deb45c584b2fc47e20f2cbe298.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_06fb7c0b468c4fbf213f925be85d6c3c589b5446.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_99e60da7010ff48777d681f70d8a52fa61e9e884.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_e0afaa017696d4b556fec3e40f9c8ce55308e81b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_e59c80f2197614dfce1e385ad769b0a16ed2a1b0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d802829cbf3b82b2baadb4d90b41e995e6094fc3.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_a2bf8cf26031224c9bf6e1db07530a76e04c0f46.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_23cedf5d73bd54456ee970835c7bfdbebf5033f9.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b3d76bb4c95976b49ead4e5e1e28a00e52fcfb08.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_6a2e6e80a14db6e0e5a56bc2f7d6f9d6fb8f503d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b92b66c3cdd89012806db0cbc81bb52460bbac43.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_e9b52730b8a057ebad109d46da5d1bb7d0bb86b1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b2aed5c2db065e08400ed67ac7ca877bf28a26e2.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_5a3bf62c7f6264691138882d76491ba7c7266460.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_984215e9a0aa630399a4990ca5d66b8d66c55d50.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_fd7925765db09680758be26f349483db9ebe6f44.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_7d1384e974b5d6cb17af390ff54ed42e8fc6fadc.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_000ed108a71d782d0efd4b77309073fef38ae6c9.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_655829b2bce57d1c6b96733a63394c4958f13587.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_7b44b190be0315e29f3fbf199a79b0a890dd8854.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_0a51119c86a46ba8170487fba4bcfd5f592b918e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_4a9148b29d4f8e956e1e3f2325ddca81dee73b4f.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_def843b7f8af9d0dbc57c0434af1b48cab9324a1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_911972dd1e5b51f40b7ce52864b98acc545a9d36.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b170a2a78553484f4b2bc1223c604e278ad5219f.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_4d64ccde7e32102d397beadc264e6dd307997065.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_1f117417ecf744120fb58db0e38ec59021fe2a1b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_af9a71c9ef2300ea533c37df38c006f16c584f96.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_ef1ebfa0119410cb66bb5adc04f0f47826d50325.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_94f081d2657d0ad11cc9444c55f21a94647213a7.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d2027a00193c4a2e02cbb031e3933093b3710abe.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_05c34e42834a06e11c610b6f8f49d5b7771c1bb9.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_3a346ebce3327c450dae1a15d24a34bab4c84a72.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_be95330d3ca2d045620c5082b95aefdef7fe456c.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_a41ba1dc7aefc88839a24b568cdf7f7d3f19ee03.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_c6cdb73bea4293f76078eeecd7b5ee42d87a1e4b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_507de3c67bbf1f3f50a1372c66ed590f93bb7efe.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_2ecad95f182c80b12eb545a93555157b78af7c8d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_a67ca922f65c7eaaef52db17623c9e8ae51fa320.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_f95d4bc7c9b31bf56be8313542ad433fd433acb8.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_edd85626bbbbe3c380c45856e71c7d04fa4a2db5.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_55ee867206f7f8cb004f52af51096df5cdcec975.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_f63aa791c0b270fb853e1a3b93876929052bec4a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_2bb54a578f253824b9c8c55b756ab1f9a9ccc0c7.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_ed786cb1c859ea26a2bc6af9c6617e569b9a41b6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_1ccccfe16635f52e88b812f5683ab049def27a08.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_49beb87559ed06fc7ad5334d045e396e3870e252.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_2ef2cdb69ff84414b507e4be51242785e37ca4f5.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_3ee86068e7700f615455e799fe7ba1fb3b42f063.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_75b45935581cc710806ba078e0b1707fa968602e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_828e4bd900a32d6169e8262f601c5131b47fd9c1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_4462c7ad8be27daab3e36200f1b9de34b8be0f72.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d40186044afdd7ae1f5276d969f56e5a34527f41.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_61db56a60a9e47b97295948855ceeb55f48c180d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_2273e37eb698540f9bda2d02c949b95e031c786d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_c6e8f3fa8386c8ccd4cf6859bd464921cc6581a2.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d70806f2e4d92a9129f3b6ad6018bbb1f402b17d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_def76aab75e7a0c2590ddee6e8900dac8f3376de.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_bd53f8b8a817d1dc879490b99ba9f5967089a92e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_0e18dace719f3409385454879f802d635a416c9b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_dc8aa463367b8c30fc9dbc56d9234dde0d0ccce4.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_6e492427d0b71a544655c7b490af39607b881275.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_8d8f010929f9942f42dcdc39534ac0ae7fc9205a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_81fb5347dc705116c0558e2165fcfc1f10b9c725.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_03494cabd0ec2cd7d596b6f5fa373f098e39b235.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b492a8b6d6b8a6d1acaf8eaad9d1baae1c9eaa95.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_3cce41c52008db36c69571cd06a666fd33b50de9.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b03ca04a9504e97cfa41f0e21437a510fc549058.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_4d51dc93a0558a60abbb48e80f2b0a614fa8ec84.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_1f6d5fd47ea79e14e176cd2fe1634734c0218ef8.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_999f20e5012b4d515449175c4f9c16006903e63a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b3081a67aa74cf6772ae3e0d363055b3249df656.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_6df9c723d9c85209b08f913dbfda770bfcebd247.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_e2d97826c4ea01f207bc0ca1d70506da041f162f.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d7930e444292723b224969bd9a8c1c753e43b70d.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_74ef032ae5e91e5e4e2009e59b804e3edae7417a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_6824b374ef3b81e3dbbd08b984c8910ee383f636.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_711dff639abe3f64a55e27142fc5bc16eaaec1d7.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_6f782f80f329dacad0b87618bfef36a15ee4d24b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b803a7735abb9aabe9a6a2e7ecd58949fcc47c68.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_843b500e6261739d3ff6e6983e1004b0f63e14e6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_299837ba5b2c54569e61c51b672aa657d8129ce7.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_9a9d4a790e96aec0d47e5e31421e0d01c7bb6e26.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_51ea3f2228eb4a2d48d6ddd6f228c20ea17325a8.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_fe4c9a81cba1607eedbf8fbb26767e45237d5fed.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_cb40034b3f94abb51e9ee58315e4ef39b3e7be49.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_59204536d39d1153323857fa5d4a6fd4bf8291d1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_e415c28756369114c1ddb57ea29880ee13c6870e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_cff2ae2aadbdbb2faa5d307125c978f218724077.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_1a48c982c39263ca645ae847b032f3909d7c2906.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_85cdabc5eff6359b0bfde919404cd3af66740794.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_ab7ccffc4cb0938f813b91f23298c0f345f24866.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_048b19c9637f583f761ffc0080da93ceae5df5f1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_bcc9ab6e39e2231ece5ccab7162066cd0536a545.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_05f916fd6da19c287d9751d27f0a976aaa9509bc.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b31ffc0dfbacaa0f63edd9f0f8509f6cb437184b.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_1d0c758d6ab2d82a5ed8eea15a7c2a3d25bd3aa1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_22ff11035ec5dcd555848780514b43f89ac48477.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_73c23329662e3b9c0d367ab3f6e742a4685074a4.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d9adb5f1e7e498574621e25ad6f5d9515e87826a.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_d36aa2e60a50c28294d84232bcc1835ed59509c3.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_4f501c39d59ca70fe02ced438e43087b0e788074.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_4943fff4921ad1b679ce4ad0e6b8664073bd37e6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_06d654fea0adc041a90fb7263a4cc3cb7615b6d0.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_3fde2998d3bc62e61e1f56d9880e60f0dea5aef6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b2b3e7fee001ec8b059a50e0dc932cf5367f2073.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_02323a8bbddf26c3395edf0e1dfb81a08e7d9f1c.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_583df0e0614617f80c4684a5c8eef6d215dde2c6.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b8ee19d152e2b1752f051b84fd488c08e986168e.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_15162ccd6999d5df397ba8711bf23b16aa2c10e3.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_931c6080a17d7f6a8266c72a599d2f1aa6c52d33.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_1aba30dcf777635baa5a1886fcbb4a949ae988df.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_cd547886e7a75b172eb919c0ffe0b069379b1abd.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_2ebd1eeb22c8cf019bd4965b8cade02a281bcc21.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_630ab12103d0cd35721ee543d3f756a08f782bb1.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_5630493e04c96bb373c37aa3373986da43997d32.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_9c54e47b0ab967fbdd017179421e083ef65e58b4.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_84eb394547373383989eac51d038b5a6f70569ee.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_ab0d524e98e0e4d7f0fe112703c747d424b458d8.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_42029ba9ef831d92b3928dd670a860886803c877.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_db8d86001769178df5c07f0f29af3b070ecf47c8.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_43772410efbcdd3511b4d29f62564ecb79be0337.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_51dc7c123fbd2d4b5f17d0ce26f8dfae4b8c90ef.1920x1080.jpg?t=1779908213",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/ss_b68d7a3cfa491489226fe323991d957f98304047.1920x1080.jpg?t=1779908213"
+    ]
   },
   {
     "id": "steam_1145360",
@@ -764,8 +1485,8 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 03:48",
-    "resolution": "4K",
+    "duration": "Trailer: 03:24",
+    "resolution": "1440p",
     "keywords": [
       "Action",
       "Indie",
@@ -776,7 +1497,20 @@ export const mockGames = [
     "accessRights": "Rp 206 999",
     "priceValue": 20699900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1145360/312686/b0312c49135823cc34946e98148abfb8da71f0fb/1750627549/hls_264_master.m3u8?t=1600353465",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_c0fed447426b69981cf1721756acf75369801b31.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8a9f0953e8a014bd3df2789c2835cb787cd3764d.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_68300459a8c3daacb2ec687adcdbf4442fcc4f47.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_bcb499a0dd001f4101823f99ec5094d2872ba6ee.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8e07e477fa7ff2f88c8984bc89b9652a655da0e9.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_34e6660705cfe47d2b2f95189c37f7cb77f75ca6.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_217b70678a2eea71a974fba1a4cd8baa660581bb.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_5e52844b891b54608eb51a850d6b53313eeed0f7.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_abb2427810a4e91cc600f37c3630b912d4e0191b.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_2a9e3f9ad4d29d900b890d56361be5b1634225a0.1920x1080.jpg?t=1758127023",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_e0622b5a57521b76182d7e7e1ae47ee440edcf90.1920x1080.jpg?t=1758127023"
+    ]
   },
   {
     "id": "steam_1794680",
@@ -787,8 +1521,8 @@ export const mockGames = [
       "Windows",
       "MacOS"
     ],
-    "duration": "Trailer: 01:17",
-    "resolution": "4K",
+    "duration": "Trailer: 02:45",
+    "resolution": "1440p",
     "keywords": [
       "Action",
       "Casual",
@@ -800,7 +1534,16 @@ export const mockGames = [
     "accessRights": "Rp 44 999",
     "priceValue": 4499900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/2ca07b690dde645771125ed9d9206c4c5fde4dd4/header.jpg?t=1781096909",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1794680/598026/b3a9771de005c30237b53d84932fd2e792f298c0/1750736849/hls_264_master.m3u8?t=1692280956",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1781096909",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1781096909",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1781096909",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1781096909",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1781096909",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bea7831ae00c044d9cd31c3f8e0fee766b4fe1c6.1920x1080.jpg?t=1781096909",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_3e82b3bdc06e40b15252490c25a9afe09a086fdf.1920x1080.jpg?t=1781096909"
+    ]
   },
   {
     "id": "steam_242760",
@@ -810,7 +1553,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:14",
+    "duration": "Trailer: 03:48",
     "resolution": "1440p",
     "keywords": [
       "Action",
@@ -823,7 +1566,25 @@ export const mockGames = [
     "accessRights": "Rp 108 999",
     "priceValue": 10899900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/242760/160666/bbafdb4d869f0c66696af5542e6bd7470a214051/1750486422/hls_264_master.m3u8?t=1525039057",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_8ccb821c4df3fafdf4161d77f38635441a8157f2.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_53c615d49c4777144ed7359e4bf7c9eb6838cc8e.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_772eebf0ce7bdb51546055a36185e8ee46e8acac.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_d03a261fecab226a0ecac5746225c2a50d65c670.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_d77d402c78451a04b5c370e81ff7767c4008343c.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_a37e6873baf869be91010b20c30a7e61e4b82cc1.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_7598551a5bfbf69ae1161c8ebee8e000868add24.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_7a8d95143af9f801a7b5ba9a6cb23f2e5998344c.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_471c40435f1811182e47c11486cf9c042dbf7401.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_a1a871918b4fa3dcc71f19f3aa4ea1fff3ab649b.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_e50b7c8bc2f4720859ba13aa32703661192f4d62.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_792069bbfdd795f3e0b139c5b4e5140f2e9ea70c.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_8b6ee5b52fa2b058c20447b57317f6d50ddb313c.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_22bcb45aed3cd05332393884af2cc10063fa6b95.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_233e1d0c71f1bc2d5cdeb96fa3f8974f0ab5e95d.1920x1080.jpg?t=1699381053",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/ss_659db358ad023f42d17707d2b4586e4c2f920919.1920x1080.jpg?t=1699381053"
+    ]
   },
   {
     "id": "steam_1326470",
@@ -833,7 +1594,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:39",
+    "duration": "Trailer: 01:13",
     "resolution": "1440p",
     "keywords": [
       "Action",
@@ -846,7 +1607,20 @@ export const mockGames = [
     "accessRights": "Rp 245 999",
     "priceValue": 24599900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1326470/541725/76f298f949c4ae5b4257fa2056112f8d34285799/1750672622/hls_264_master.m3u8?t=1677175226",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_e6e3ab1badfb287a77fb6eef7b1589a35371496b.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_4fa5d260318f0aa37754b00c5dc10d1b7b9b9b1d.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2b67491ca913adea6953429e1a567824aaa0ed54.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_ba2c1f6e69c6c7d69f7965cbd4b78da59ec59d55.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_2c537a8c689dd6b21643b8054a64646334ef7391.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_b05310f659a67129e9089fbb22e445b0998d6d1d.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_80a67c430a5f5e2e2f9a243aac4c63d990079252.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_6f0f7bfcdbc556142b42c9b1411dd28a64d45623.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_b55ee5728556d1b52135af967ff5f6c58f64daf6.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_9d1b215bc41b2fc152e68c045c7b9a4d288d2464.1920x1080.jpg?t=1708624856",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/ss_91907210b074b66131d5dd556206f8be7715302b.1920x1080.jpg?t=1708624856"
+    ]
   },
   {
     "id": "steam_289070",
@@ -858,8 +1632,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 03:33",
-    "resolution": "4K",
+    "duration": "Trailer: 02:40",
+    "resolution": "1440p",
     "keywords": [
       "Strategy"
     ],
@@ -868,7 +1642,17 @@ export const mockGames = [
     "accessRights": "Rp 44 999",
     "priceValue": 4499900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1740607040",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/289070/76617/1f43ec5aa4bd687389eb29886a2539cc984530e9/1750500626/hls_264_master.m3u8?t=1476737061",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_12cc6e1f4084de5bc0f66bfdbe3aaf3e59388b53.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_6c4a3cfb61f1a9677cf2ac549c2816a4e651f741.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_b2bf12299c38214fe520af0f724a6349d17ed330.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_7f598198526afc260d939a98af4d76d95f5349e4.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_7ca34ff8ae81fb10ddc540187e2e21d1b8e1dfe9.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_36c63ebeb006b246cb740fdafeb41bb20e3b330d.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_cf53258cb8c4d283e52cf8dce3edf8656f83adc6.1920x1080.jpg?t=1740607040",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/ss_f501156a69223131ee8b12452f3003698334e964.1920x1080.jpg?t=1740607040"
+    ]
   },
   {
     "id": "steam_255710",
@@ -880,7 +1664,7 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:29",
+    "duration": "Trailer: 01:47",
     "resolution": "4K",
     "keywords": [
       "Simulation",
@@ -891,7 +1675,19 @@ export const mockGames = [
     "accessRights": "Rp 101 699",
     "priceValue": 10169900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1777568415",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/255710/285736/c6d0fd84c7635300ea7ce0ca9222840f47fe228d/1750489550/hls_264_master.m3u8?t=1589550020",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_0754001c88ad4dbfff92faf9a97e8d87cf3f8840.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e0f842c9327df9defabf120b6c59e1ba42f54a75.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_b5a4b72062b8c4ad677b242963e88c2e624cb1f9.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_39f74526167020dfae4156945f24e7e49d5eedf8.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_a4ebf2b3ad46e620d99fa471708d68b28ea4d7d1.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_013b26f27484941d4edbd406f8df5b5238f120df.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e90299bea1faee761c11c5242c4e6e89f3ef7fb9.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_79130723c29cdd89f6169514bc4aad03aa58e823.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_7d54fe076aabfd4fbe465517a4f1a4426e9cb367.1920x1080.jpg?t=1777568415",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_13bf6dcdc9f4e383f885752fbe9114ddb4dfd729.1920x1080.jpg?t=1777568415"
+    ]
   },
   {
     "id": "steam_1237320",
@@ -901,7 +1697,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 02:53",
+    "duration": "Trailer: 03:11",
     "resolution": "1440p",
     "keywords": [
       "Action",
@@ -909,10 +1705,20 @@ export const mockGames = [
     ],
     "description": "Sonic Frontiers is a groundbreaking open-zone action-adventure game set on the ancient Starfall Islands. Join Sonic as he battles hordes of powerful enemies with an all-new combat system, explores the mysteries of the islands, and saves his friends!",
     "category": "Action",
-    "accessRights": "Rp 530 000",
-    "priceValue": 53000000,
+    "accessRights": "Rp 238 500",
+    "priceValue": 23850000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg?t=1781720308",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1237320/490162/80af8429f7afd86860a072ea54c142875bbbc16f/1750648123/hls_264_master.m3u8?t=1661351698",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_8ac5bfdc998b20e4a54ee27b68ef175f7cd9f1a9.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_d9c769a9346e5b1d7e1f9109d0c317c81213c021.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_45369645d9c1c1b1fd9483b48c8a15f21b8693c5.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_cddd10b31502d648f964c5df550499d041212759.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_b355860697bafd2a16e77b97be27ffaf5c9b6609.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_e115f40d130f010908ba4208ac769ad695d91406.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_2b77ee8ba5497f29409d1110dd3010161be3da91.1920x1080.jpg?t=1781720308",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_9817ace7705cf9096bde3fae0141055d170fbf66.1920x1080.jpg?t=1781720308"
+    ]
   },
   {
     "id": "steam_1172620",
@@ -922,8 +1728,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:18",
-    "resolution": "1440p",
+    "duration": "Trailer: 02:57",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure"
@@ -933,7 +1739,22 @@ export const mockGames = [
     "accessRights": "Rp 449 000",
     "priceValue": 44900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1780506905",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1172620/2026344220/6ebc4b13a13791d3a614b638e75ebf3fe1bd9f5d/1774018273/hls_264_master.m3u8?t=1775747047",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_ec623c77d75dfa098c622b547b1ab21ad4cae0a8.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_6ea04bdc415c336a195555aec4b97a73a9910fc1.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_2144ac860fd64d82cb9cc49680f5087c7bb8fe2f.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_4fb90cbac34d2cbe74b86383bda660cd0316b907.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_eb726e31966c9dae0bf0c6cc66ef2fc41b241233.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_d431abb7120aa4a6cbc0be82e5a2cdcca62917b2.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_748007668988e219ec69845a470d5e701a87e0d2.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_1d1989435afbc1ff8d8ec4d61283e41a30208337.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_5c1ecff9e5953ed04f476241872fedfae682a797.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_62540509fc1c7176c6c3c923cf300f6e68671589.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_1dda43bcfed46dadb71198bea7ac2959db328634.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_9d963735df98a13676ee2bf3951439c033193160.1920x1080.jpg?t=1780506905",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_6e8ab9a6fe0bc6b9a11fe55e0c9c8bed0c046639.1920x1080.jpg?t=1780506905"
+    ]
   },
   {
     "id": "steam_8930",
@@ -945,8 +1766,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 02:22",
-    "resolution": "1440p",
+    "duration": "Trailer: 01:26",
+    "resolution": "1080p",
     "keywords": [
       "Strategy"
     ],
@@ -955,7 +1776,14 @@ export const mockGames = [
     "accessRights": "Rp 49 999",
     "priceValue": 4999900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/8930/3528/4c8fd508e810c14095ccbee38b9cd26ed45baa9a/1750484171/hls_264_master.m3u8?t=1447353146",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_7082faf1b0941ddbc4ba9dab5807a9b5e77d72f9.1920x1080.jpg?t=1724341158",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_e6f9ef54f06ffebc9445d8b29d8d2054fa3185d4.1920x1080.jpg?t=1724341158",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_aa383406a5f2979598b543d8f272d3ac145e357a.1920x1080.jpg?t=1724341158",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_84ee7ab3b0148a260359f8d5a78a2ab9033aa695.1920x1080.jpg?t=1724341158",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/ss_5dfcd65b611b35a9dc126335dca2d48ef8180106.1920x1080.jpg?t=1724341158"
+    ]
   },
   {
     "id": "steam_4000",
@@ -967,8 +1795,8 @@ export const mockGames = [
       "MacOS",
       "Linux"
     ],
-    "duration": "Trailer: 01:11",
-    "resolution": "1080p",
+    "duration": "Trailer: 03:58",
+    "resolution": "1440p",
     "keywords": [
       "Casual",
       "Indie",
@@ -979,7 +1807,29 @@ export const mockGames = [
     "accessRights": "Rp 44 999",
     "priceValue": 4499900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000826.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_65ec9828538eac8db20efc8149990060911fefc4.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_c13ffded1d71bedfa7ede94c11cbd21fbd21a32c.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d85d19db885f233a4790960978f362b556ec37be.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000824.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_4162b10390d84aa600e5ed895fdc885482eb2e71.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000822.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_6196ec6e5ad47ef40b27099cc77a3bf60b64b38c.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000829.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000828.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000827.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000825.1920x1080.jpg?t=1776868682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000830.1920x1080.jpg?t=1776868682"
+    ]
   },
   {
     "id": "steam_601150",
@@ -989,8 +1839,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:47",
-    "resolution": "4K",
+    "duration": "Trailer: 01:55",
+    "resolution": "1080p",
     "keywords": [
       "Action"
     ],
@@ -999,7 +1849,14 @@ export const mockGames = [
     "accessRights": "Rp 389 000",
     "priceValue": 38900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/header.jpg?t=1768869803",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/601150/335931/0bb98351bdf8ee34bae8229bfe0552ce1b98fd2c/1750560266/hls_264_master.m3u8?t=1669135891",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_4410bada2565843dae693b03ac3a50256ff5dd66.1920x1080.jpg?t=1768869803",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_4ce180ed8979a51c72de51f985e9e9ba13500508.1920x1080.jpg?t=1768869803",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_e2be70565f94a7f6c392cccddce08c67f2f87612.1920x1080.jpg?t=1768869803",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_d1e0b403f593f17ad195c5382a7788d71c6f406a.1920x1080.jpg?t=1768869803",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/601150/ss_f669d4627db07e61b87728d94d72bc1eabfd0349.1920x1080.jpg?t=1768869803"
+    ]
   },
   {
     "id": "steam_990080",
@@ -1009,7 +1866,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 01:39",
+    "duration": "Trailer: 02:54",
     "resolution": "4K",
     "keywords": [
       "Action",
@@ -1021,7 +1878,14 @@ export const mockGames = [
     "accessRights": "Rp 799 000",
     "priceValue": 79900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/990080/1375135040/954f940cc193696b7733f9eacfa43a2cdadb1db5/1778796137/hls_264_master.m3u8?t=1778797472",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.1920x1080.jpg?t=1778797474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1778797474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.1920x1080.jpg?t=1778797474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.1920x1080.jpg?t=1778797474",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.1920x1080.jpg?t=1778797474"
+    ]
   },
   {
     "id": "steam_1321440",
@@ -1032,8 +1896,8 @@ export const mockGames = [
       "Windows",
       "Linux"
     ],
-    "duration": "Trailer: 01:10",
-    "resolution": "1080p",
+    "duration": "Trailer: 01:50",
+    "resolution": "1440p",
     "keywords": [
       "Indie",
       "RPG"
@@ -1043,7 +1907,17 @@ export const mockGames = [
     "accessRights": "Rp 58 099",
     "priceValue": 5809900,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/d720f71e641f965ee05a7aa719252f3844525005/header_alt_assets_5.jpg?t=1780904789",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1321440/865040/21766e903f81fbf21aecbe44f60fd4d53b2703ee/1750672163/hls_264_master.m3u8?t=1744030730",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_8c6d904950b675f8cb2e0255a1f5b06d7898bc5b.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_580f8e3d83ab9357cface16e0272eb541f51984e.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_aaa30fb9959b16d8026ac1e83a3bb0e8c591ed8b.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_4b4231e199091054d443b319f97811646fbab9d4.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_e06730aacd65dbeb420adbc7dcdb71226ea979aa.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_ab46d3e31213f572e72b7284ef7fad1fc1bcf8d1.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_bc1c98e4072a2eb8460f5c79dd7e98fcd97d2452.1920x1080.jpg?t=1780904789",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321440/ss_4827bdcc9c85974fed63970ef4677e3ab14ef217.1920x1080.jpg?t=1780904789"
+    ]
   },
   {
     "id": "steam_2050650",
@@ -1053,7 +1927,7 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 02:30",
+    "duration": "Trailer: 03:22",
     "resolution": "1080p",
     "keywords": [
       "Action",
@@ -1061,10 +1935,29 @@ export const mockGames = [
     ],
     "description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
     "category": "Action",
-    "accessRights": "Rp 129 750",
-    "priceValue": 12975000,
+    "accessRights": "Rp 519 000",
+    "priceValue": 51900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/2050650/657551/0789826944c463c6285ecd2267c4bb6886a765ab/1750745223/hls_264_master.m3u8?t=1707455749",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_59d1b19964cc532213df92c8287b75a0bffeb33c.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_ab807f8ad9e968a620777caf483cb6020367b9ee.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0442f7fb4327d79802c2db8ea8d23d228a28d896.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_69810f4cd155912fdfdd21da70181df7d454c874.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0596bac955340495562f3ff2538756ebd9a7f073.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_0554b945aafc847d55f780f7968de00aafa968a3.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_29ffb23060c862bcbe1d1434e83d41ab10484d8e.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_22d21ef8c4e54cc5f8418f9b233178bf7869ee01.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_5a4297e594297a13f1f4c665966eb3d88d37b58d.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_440756cbcb0231dd325991d38b85d3b60d976b95.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_72888d13c9e3995f05a2886a51f0dc8791e28afa.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_d90819dc43141eee26b69a6cab43be00164adcb0.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_b9fbb8b2d7e1204a074033e9bb9a19fa54f765fb.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_d8967ced32ccbbd94f852b3843a5b76febf3ef16.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_98d9687b6acf5feff600b483d9f30e52079091e9.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_82cef99075c8e19ec71d2aae8b0a19815695c5a7.1920x1080.jpg?t=1772502922",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/ss_2f026b10ab2facd11820737453512b3b88c5a863.1920x1080.jpg?t=1772502922"
+    ]
   },
   {
     "id": "steam_1286680",
@@ -1074,8 +1967,8 @@ export const mockGames = [
     "osSupport": [
       "Windows"
     ],
-    "duration": "Trailer: 03:27",
-    "resolution": "1440p",
+    "duration": "Trailer: 02:33",
+    "resolution": "4K",
     "keywords": [
       "Action",
       "Adventure",
@@ -1086,6 +1979,25 @@ export const mockGames = [
     "accessRights": "Rp 659 000",
     "priceValue": 65900000,
     "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/header.jpg?t=1737970341",
-    "video": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "video": "https://video.akamai.steamstatic.com/store_trailers/1286680/403105/6b2a92836b39ec14676551a0b3c48563ab8ab865/1750668233/hls_264_master.m3u8?t=1632286996",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_e7499467fb6dbff279fdffd96ec380b157c5791a.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_9eec41e5b6d47e4a63fb7f0a0eed4819baeee4f5.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_24bef9c08e3f51b99030dd7972312fc7628f29aa.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_ca4fd814a118de1f7cc0ce8c944e9885a58f20f2.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_94b20ffbfe17560aa2b8e1bc9c8b1ba78f74c8d7.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_46d8825c242988d268d4ac39161c60fdb55fea20.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_368a923cd32717cad3ed3c18ff7e0072de586fc6.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_b1d61fe87ab9145ef9bcda9df1c16f29a5b8cdb8.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_5b2e17580b46bf086bef1012445d6b5f70216849.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_3df4cc6547428183445a87a5c3a6979550717049.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_dc87fa2074051f81061970a757493e785a6dcce2.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_a0abf4cd911ee1c78ab0ebf95b2e4f9462ad25ad.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_ec1b6e061d26ebd9f9d9b57c527bcd6f8f5f9947.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_03f15818e2e34b0d933f01d274f954184df1747d.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_1447f6651dbc57169ff7877b465608d533898aa3.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_0bb2de8b524d4d0437e0527125c2ba1c034924d0.1920x1080.jpg?t=1737970341",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286680/ss_ff4833389010c8bd3382766a9ec69beb94b89a8b.1920x1080.jpg?t=1737970341"
+    ]
   }
 ];

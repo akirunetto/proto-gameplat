@@ -110,7 +110,8 @@ async function run() {
           accessRights: data.is_free ? 'Free-to-Play' : (data.price_overview?.final_formatted || 'Premium'),
           priceValue: data.is_free ? 0 : (data.price_overview?.final || 0),
           thumbnail: data.header_image,
-          video: data.movies?.[0]?.webm?.max || data.movies?.[0]?.webm?.['480'] || 'https://www.w3schools.com/html/mov_bbb.mp4'
+          video: data.movies?.[0]?.hls_h264 || data.movies?.[0]?.mp4?.max || data.movies?.[0]?.webm?.max || 'https://www.w3schools.com/html/mov_bbb.mp4',
+          screenshots: data.screenshots ? data.screenshots.map(s => s.path_full) : []
         });
       }
     } catch (e) {

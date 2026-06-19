@@ -1,6 +1,6 @@
 import React from 'react';
 import { Outlet, Link, useLocation } from 'react-router-dom';
-import { Terminal, Database, Search, Disc, Play } from 'lucide-react';
+import { Terminal, Database, Search, Disc, Play, UploadCloud } from 'lucide-react';
 
 export default function Layout() {
   const location = useLocation();
@@ -9,6 +9,7 @@ export default function Layout() {
     { path: '/', label: 'SYS.HOME', icon: Terminal },
     { path: '/catalog', label: 'DB.CATALOG', icon: Database },
     { path: '/search', label: 'QRY.SEARCH', icon: Search },
+    { path: '/upload', label: 'DEV.UPLOAD', icon: UploadCloud },
   ];
 
   return (

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { mockGames } from '../data/mockGames';
 import { Terminal, Download, Play, ShieldAlert } from 'lucide-react';
@@ -6,6 +6,13 @@ import { Terminal, Download, Play, ShieldAlert } from 'lucide-react';
 export default function Detail() {
   const { id } = useParams();
   const game = mockGames.find(g => g.id === id);
+  const [activeImage, setActiveImage] = useState(null);
+
+  useEffect(() => {
+    if (game) {
+      setActiveImage(game.thumbnail);
+    }
+  }, [game]);
 
   if (!game) {
     return <div className="p-12 text-center text-core-orange">ERROR: RECORD_NOT_FOUND</div>;
@@ -27,11 +34,32 @@ export default function Detail() {
               {game.accessRights}
             </div>
             <img 
-              src={game.thumbnail} 
+              src={activeImage || game.thumbnail} 
               alt={game.title} 
               className="w-full h-auto cyber-image relative z-0"
             />
           </div>
+
+          {/* Screenshot Gallery */}
+          {game.screenshots && game.screenshots.length > 0 && (
+            <div className="mt-4 flex gap-2 overflow-x-auto pb-2 snap-x">
+              <img 
+                src={game.thumbnail} 
+                onClick={() => setActiveImage(game.thumbnail)}
+                className={`h-16 w-auto cursor-pointer border ${activeImage === game.thumbnail ? 'border-core-orange' : 'border-terminal-white/30'} cyber-image hover:border-core-orange snap-start`}
+                alt="thumbnail"
+              />
+              {game.screenshots.map((s, idx) => (
+                <img 
+                  key={idx}
+                  src={s} 
+                  onClick={() => setActiveImage(s)}
+                  className={`h-16 w-auto cursor-pointer border ${activeImage === s ? 'border-core-orange' : 'border-terminal-white/30'} cyber-image hover:border-core-orange snap-start`}
+                  alt={`screenshot ${idx + 1}`}
+                />
+              ))}
+            </div>
+          )}
           
           <div className="mt-6 flex flex-col space-y-4">
             <Link 

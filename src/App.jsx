@@ -6,6 +6,7 @@ import Catalog from './pages/Catalog';
 import Search from './pages/Search';
 import Detail from './pages/Detail';
 import Player from './pages/Player';
+import Upload from './pages/Upload';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route index element={<Homepage />} />
           <Route path="catalog" element={<Catalog />} />
           <Route path="search" element={<Search />} />
+          <Route path="upload" element={<Upload />} />
           <Route path="detail/:id" element={<Detail />} />
         </Route>
         {/* Player is outside Layout to be fullscreen */}
