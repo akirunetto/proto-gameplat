@@ -1,6 +1,6 @@
 import React from 'react';
 import { Outlet, Link, useLocation } from 'react-router-dom';
-import { Terminal, Database, Search, Disc, Play, UploadCloud } from 'lucide-react';
+import { Terminal, Database, Search, Disc, Play, UploadCloud, Bookmark } from 'lucide-react';
 
 export default function Layout() {
   const location = useLocation();
@@ -10,6 +10,7 @@ export default function Layout() {
     { path: '/catalog', label: 'DB.CATALOG', icon: Database },
     { path: '/search', label: 'QRY.SEARCH', icon: Search },
     { path: '/upload', label: 'DEV.UPLOAD', icon: UploadCloud },
+    { path: '/library', label: 'USR.LIBRARY', icon: Bookmark },
   ];
 
   return (
@@ -23,7 +24,7 @@ export default function Layout() {
           <div className="flex items-center space-x-2">
             <div className="w-3 h-3 bg-core-orange rounded-sm shadow-glow animate-pulse-glow"></div>
             <h1 className="text-xl font-bold tracking-widest text-terminal-white">
-              NEXUS<span className="text-core-orange">.OS</span>
+              NEXUS<span className="text-core-orange">.IO</span>
             </h1>
           </div>
           

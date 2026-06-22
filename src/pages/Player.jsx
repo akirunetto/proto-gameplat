@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { mockGames } from '../data/mockGames';
 import { Play, Pause, Volume2, VolumeX, X, Heart, Maximize } from 'lucide-react';
+import { useWishlist } from '../context/WishlistContext';
 import Hls from 'hls.js';
 
 export default function Player() {
@@ -15,7 +16,9 @@ export default function Player() {
   const [currentTime, setCurrentTime] = useState(0);
   const [isMuted, setIsMuted] = useState(false);
   const [showWishlist, setShowWishlist] = useState(false);
-  const [wishlisted, setWishlisted] = useState(false);
+  const { isWishlisted, toggleWishlist } = useWishlist();
+  
+  const wishlisted = game ? isWishlisted(game.id) : false;
 
   useEffect(() => {
     // Show wishlist button after 3 seconds of playing
@@ -128,7 +131,7 @@ export default function Player() {
         {showWishlist && (
           <div className="absolute top-1/4 right-1/4 z-30 animate-pulse-glow">
             <button 
-              onClick={() => setWishlisted(!wishlisted)}
+              onClick={() => toggleWishlist(game.id)}
               className={`flex items-center space-x-2 px-6 py-3 border-2 transition-all ${
                 wishlisted 
                   ? 'border-core-orange bg-core-orange text-void shadow-glow-strong' 

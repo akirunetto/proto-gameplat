@@ -1,12 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { mockGames } from '../data/mockGames';
-import { Terminal, Download, Play, ShieldAlert } from 'lucide-react';
+import { Terminal, Download, Play, ShieldAlert, Heart } from 'lucide-react';
+import { useWishlist } from '../context/WishlistContext';
 
 export default function Detail() {
   const { id } = useParams();
   const game = mockGames.find(g => g.id === id);
   const [activeImage, setActiveImage] = useState(null);
+  const { isWishlisted, toggleWishlist } = useWishlist();
 
   useEffect(() => {
     if (game) {
@@ -70,10 +72,23 @@ export default function Detail() {
               <span>LAUNCH_BROADCAST_NODE</span>
             </Link>
             
-            <button className="btn-cyber flex items-center justify-center space-x-2 w-full py-4 text-lg">
-              <Download size={20} />
-              <span>INITIALIZE_DOWNLOAD</span>
-            </button>
+            <div className="flex space-x-4">
+              <button className="flex-1 btn-cyber py-4 flex justify-center items-center space-x-2 text-lg group">
+                <Download className="group-hover:animate-bounce" />
+                <span>INITIALIZE DOWNLOAD</span>
+              </button>
+              
+              <button 
+                onClick={() => toggleWishlist(game.id)}
+                className={`flex items-center justify-center px-6 border-2 transition-all ${
+                  isWishlisted(game.id)
+                    ? 'border-core-orange bg-core-orange text-void shadow-glow-strong' 
+                    : 'border-terminal-white bg-void/80 text-terminal-white hover:border-core-orange hover:text-core-orange hover:shadow-glow'
+                }`}
+              >
+                <Heart size={24} className={isWishlisted(game.id) ? 'fill-void' : ''} />
+              </button>
+            </div>
           </div>
         </div>
 
